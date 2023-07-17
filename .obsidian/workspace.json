@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "216b31343a537aee",
+        "id": "e74951fb7f7f4101",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e9f6a667674bf3",
+            "id": "d74b66668077b1ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Demo Canvas.canvas",
-                "viewState": {
-                  "x": 280.9597249601081,
-                  "y": 100.64426543788971,
-                  "zoom": -0.8333333333333333
-                }
+                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md"
               }
             }
           }
@@ -88,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo Canvas.canvas",
+                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo Canvas.canvas",
+                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo Canvas.canvas"
+                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md"
               }
             }
           },
@@ -159,12 +154,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9e9f6a667674bf3",
+  "active": "d74b66668077b1ec",
   "lastOpenFiles": [
     "Conceptual Notes.md",
-    "Demo Canvas.canvas",
-    "New Note.md",
     "home_1.jpg",
+    "New Note.md",
+    "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
+    "Excalidraw",
+    "Demo Canvas.canvas",
     "Demo/Untitled Kanban.md",
     "Demo"
   ]
