@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e74951fb7f7f4101",
+        "id": "bd0085e5dd61a5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "d74b66668077b1ec",
+            "id": "7faa071ec1dd3caf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md"
+                "file": "Conceptual Notes.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
+                "file": "Conceptual Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
+                "file": "Conceptual Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md"
+                "file": "Conceptual Notes.md"
               }
             }
           },
@@ -140,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,14 +157,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d74b66668077b1ec",
+  "active": "7faa071ec1dd3caf",
   "lastOpenFiles": [
+    "Demo Canvas.canvas",
     "Conceptual Notes.md",
-    "home_1.jpg",
+    "Stephanie.md",
     "New Note.md",
     "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
+    "home_1.jpg",
     "Excalidraw",
-    "Demo Canvas.canvas",
     "Demo/Untitled Kanban.md",
     "Demo"
   ]
