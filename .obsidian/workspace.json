@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd0085e5dd61a5ba",
+        "id": "a8203939dcc1efa8",
         "type": "tabs",
         "children": [
           {
-            "id": "7faa071ec1dd3caf",
+            "id": "80b616565ee85942",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Conceptual Notes.md",
-                "mode": "preview",
-                "source": false
+                "file": "home_1.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptual Notes.md",
+                "file": "home_1.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptual Notes.md",
+                "file": "home_1.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptual Notes.md"
+                "file": "home_1.jpg"
               }
             }
           },
@@ -157,11 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7faa071ec1dd3caf",
+  "active": "b60adad4bda15d2a",
   "lastOpenFiles": [
+    "GregTech Structure.md",
     "Demo Canvas.canvas",
-    "Conceptual Notes.md",
     "Stephanie.md",
+    "Conceptual Notes.md",
     "New Note.md",
     "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
     "home_1.jpg",
