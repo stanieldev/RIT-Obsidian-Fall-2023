@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"file","file":"Conceptual Notes.md","id":"4b224ee5d0f97a0c","x":0,"y":-320,"width":400,"height":760,"color":"6"},
-		{"type":"file","file":"home_1.jpg","id":"a11e4b64d1228886","x":-520,"y":-140,"width":400,"height":400}
-	],
-	"edges":[
-		{"id":"43a7da67cc00cf41","fromNode":"4b224ee5d0f97a0c","fromSide":"left","toNode":"a11e4b64d1228886","toSide":"right"}
-	]
-}

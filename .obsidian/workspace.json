@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a8203939dcc1efa8",
+        "id": "138c73cdfeb10d61",
         "type": "tabs",
         "children": [
           {
-            "id": "80b616565ee85942",
+            "id": "e85a1522369590ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "home_1.jpg"
+                "file": "Graduate Quantum Technologies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home_1.jpg",
+                "file": "Graduate Quantum Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home_1.jpg",
+                "file": "Graduate Quantum Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home_1.jpg"
+                "file": "Graduate Quantum Technologies.md"
               }
             }
           },
@@ -155,15 +157,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b60adad4bda15d2a",
+  "active": "e85a1522369590ff",
   "lastOpenFiles": [
-    "GregTech Structure.md",
-    "Demo Canvas.canvas",
-    "Stephanie.md",
-    "Conceptual Notes.md",
+    "Unneeded/Conceptual Notes.md",
+    "Unneeded/Demo Canvas.canvas",
+    "Graduate Quantum Technologies.md",
+    "Unneeded",
+    "Quantum Error.md",
+    "GQT Linear system of equations.md",
+    "GQT Phase Estimation.md",
+    "GQT QAlgorithms.md",
     "New Note.md",
+    "Intro.md",
+    "Unneeded/Stephanie.md",
+    "Unneeded/home_1.jpg",
+    "Unneeded/GregTech Structure.md",
+    "Recording 20230817002029.webm",
     "Excalidraw/Drawing 2023-07-16 20.36.14.excalidraw.md",
-    "home_1.jpg",
     "Excalidraw",
     "Demo/Untitled Kanban.md",
     "Demo"
