@@ -1,5 +1,4 @@
 #RIT #PHYS-315
-
 ### Individual Labs
 > [[PHYS-315/Measuring G\|Measuring G]]
 > [[PHYS-315/Atomic Spectra\|Atomic Spectra]]

@@ -2,7 +2,7 @@
 
 Lecture | Unit | Topic | Reading
 -----|-----|-----|-----
-1 | Intro & History | How did PER start? How did it get integrated into physics departments? How is it different from Science Education? | 
+[[Reading Notes 1\|1]] | Intro & History | How did PER start? How did it get integrated into physics departments? How is it different from Science Education? | 
 2 | Cog Psych Foundations | Neuroscience & brain function | Center for Educational Neuroscience (2023), How the Brain Works
 3 | Cog Psych Foundations | Cognitive Science - Working Memory | Cowan (2014) Working Memory Underpins Cognitive Development, Learning, and Education
 4 | Cog Psych Foundations | Formation of concepts, reasoning, phenomenological primitives, resources. | Mestre and Docktor (2020) Ch 2: The formation of concepts and how to fix broken ones
