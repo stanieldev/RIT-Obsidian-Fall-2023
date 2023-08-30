@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "61d34c1ef8d4812e",
+        "id": "a44579f3362a9c13",
         "type": "tabs",
         "children": [
           {
-            "id": "bec342c265127e8e",
+            "id": "19d84fd43aa21f66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RIT Thermal & Statistical Mechanics.md",
+                "file": "PHYS-670/Reading Notes 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RIT Thermal & Statistical Mechanics.md",
+                "file": "PHYS-670/Reading Notes 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RIT Thermal & Statistical Mechanics.md",
+                "file": "PHYS-670/Reading Notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RIT Thermal & Statistical Mechanics.md"
+                "file": "PHYS-670/Reading Notes 1.md"
               }
             }
           },
@@ -157,18 +157,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bec342c265127e8e",
+  "active": "19d84fd43aa21f66",
   "lastOpenFiles": [
+    "RIT Teaching Mathematics & Physics.md",
+    "PHYS-670/Reading Notes 1.md",
+    "PHYS-670/Reading Notes 0.md",
+    "CPME-789/Introduction.md",
     "RIT Graduate Quantum Technologies.md",
     "Boltzmann Constant.md",
     "RIT Thermal & Statistical Mechanics.md",
+    "RIT Principles of Quantum Technology.md",
     "RIT Modern Physics Lab.md",
     "Untitled",
-    "RIT Teaching Mathematics & Physics.md",
-    "RIT Principles of Quantum Technology.md",
     "PHYS-440/Energy.md",
     "PHYS-440/Concept of Temperature.md",
-    "PHYS-670/Reading Notes 1.md",
     "PHYS-315/Electron Diffraction.md",
     "Atomic Spectra.md",
     "PHYS-315/Measuring G.md",
@@ -187,9 +189,6 @@
     "PHYS-789/Quantum Fourier Transform.md",
     "PHYS-789/Phase Estimation.md",
     "PHYS-789/Quantum Circuits.md",
-    "PHYS-789/Quantum Mechanics.md",
-    "PHYS-789/Linear Algebra.md",
-    "PHYS-789/Final Project.md",
     "CPME-789",
     "CPME-789",
     "Unneeded/Demo Canvas.canvas",

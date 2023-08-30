@@ -1,4 +1,4 @@
-#physical-constants #statistical-mechanics #entropy #statistics
+#physical-constants #statistical-mechanics #entropy #statistics #constants
 ### Definition
 $$\begin{align*}
 k_b &= 1.380649 \cdot 10^{−23} J/K \\
@@ -12,3 +12,5 @@ Where $J$ is [[Joule (Unit)\|Joules]] and $K$ is [[Kelvin (Unit)\|Kelvin]].
 
 
 ### Applications
+
+
