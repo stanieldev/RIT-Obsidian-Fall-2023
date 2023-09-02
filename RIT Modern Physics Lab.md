@@ -9,3 +9,5 @@
 > [[PHYS-315/Oil Drop\|Oil Drop]]
 > [[PHYS-315/Electron Diffraction\|Electron Diffraction]]
 
+[[PHYS-315/Friday Lecture 1\|Friday Lecture #1]]
+

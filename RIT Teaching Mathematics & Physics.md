@@ -2,8 +2,8 @@
 
 Lecture | Unit | Topic | Reading
 -----|-----|-----|-----
-[[Reading Notes 1\|1]] | Intro & History | How did PER start? How did it get integrated into physics departments? How is it different from Science Education? | 
-[[Reading Notes 2\|2]] | Cog Psych Foundations | Neuroscience & brain function | Center for Educational Neuroscience (2023), How the Brain Works
+1 | Intro & History | How did PER start? How did it get integrated into physics departments? How is it different from Science Education? | 
+[[Reading Notes 2\|2]] | Cog Psych Foundations | Neuroscience & brain function | [[Reading Notes 1\|Center for Educational Neuroscience (2023), How the Brain Works]]
 [[Reading Notes 3\|3]] | Cog Psych Foundations | Cognitive Science - Working Memory | Cowan (2014) Working Memory Underpins Cognitive Development, Learning, and Education
 [[Reading Notes 4\|4]] | Cog Psych Foundations | Formation of concepts, reasoning, phenomenological primitives, resources. | Mestre and Docktor (2020) Ch 2: The formation of concepts and how to fix broken ones
 [[Reading Notes 5\|5]] | Cog Psych Foundations | Knowledge in pieces and student reasoning | diSessa (2018), A Friendly Introduction to “Knowledge in Pieces”: Modeling Types of Knowledge and Their Roles in Learning
@@ -31,3 +31,16 @@ Lecture | Unit | Topic | Reading
 [[Reading Notes 27\|27]] | Technology in Physics Ed | Real-time physics labs, Computer-based sensors and data acquisition. | Sokoloff (2007) RealTime Physics: active learning labs transforming the introductory laboratory
 [[Reading Notes 28\|28]] | Technology in Physics Ed | Computational Literacy and programming in physics courses. | Odden (2019) Physics computational literacy: An exploratory case study using computational essays
 
+### Stuff
+Episodic Memory
+ - Recalling an event in order, snapshots with feelings.
+Correlative Memory
+ - Association between information, conditioning, rewarding.
+ - I do X, then Y. X happens, then Y.
+Algorithmic / Procedural Memory
+ - Learning through steps, writing, diagram, explanation, observation.
+Conceptual Memory
+ - Compilation of less-used memory that doesn't need to have exact descriptions.
+ - X and Y share common info, define shared responses.
+Propreotic Memory
+ - Activation of sections to move and regulate the state of self.
