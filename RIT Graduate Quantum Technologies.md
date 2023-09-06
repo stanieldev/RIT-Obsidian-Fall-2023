@@ -17,4 +17,3 @@ Week | Overview | Topics
 12 | Papers / Invited Talks
 13 | Papers / Invited Talks
 14 | [[CPME-789/Final Project\|Final Project]]
-

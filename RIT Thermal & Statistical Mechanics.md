@@ -35,3 +35,7 @@ The sum of a distribution of states is very similar to quantum mechanics, and is
 
 $\dfrac{3}{2} k_b T = \dfrac{1}{2} m \bar{v^2}$
 Where $k_b$ is the [[Boltzmann Constant]].
+
+
+
+[[Lecture 3|Lecture 3]]

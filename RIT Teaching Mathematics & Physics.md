@@ -3,8 +3,8 @@
 Lecture | Unit | Topic | Reading
 -----|-----|-----|-----
 1 | Intro & History | How did PER start? How did it get integrated into physics departments? How is it different from Science Education? | 
-[[Reading Notes 2\|2]] | Cog Psych Foundations | Neuroscience & brain function | [[Reading Notes 1\|Center for Educational Neuroscience (2023), How the Brain Works]]
-[[Reading Notes 3\|3]] | Cog Psych Foundations | Cognitive Science - Working Memory | Cowan (2014) Working Memory Underpins Cognitive Development, Learning, and Education
+2 | Cog Psych Foundations | Neuroscience & brain function | [[Reading Notes 1\|Center for Educational Neuroscience (2023), How the Brain Works]]
+[[Reading Notes 3\|3]] | Cog Psych Foundations | Cognitive Science - Working Memory | [[Reading Notes 2\|Cowan (2014) Working Memory Underpins Cognitive Development, Learning, and Education]]
 [[Reading Notes 4\|4]] | Cog Psych Foundations | Formation of concepts, reasoning, phenomenological primitives, resources. | Mestre and Docktor (2020) Ch 2: The formation of concepts and how to fix broken ones
 [[Reading Notes 5\|5]] | Cog Psych Foundations | Knowledge in pieces and student reasoning | diSessa (2018), A Friendly Introduction to “Knowledge in Pieces”: Modeling Types of Knowledge and Their Roles in Learning
 [[Reading Notes 6\|6]] | Cog Psych Foundations | Novice Expert differences  | Mestre and Docktor (2020) Ch 3: How learning looks for a novice: implications of expert-novice research for physics teaching and learning
