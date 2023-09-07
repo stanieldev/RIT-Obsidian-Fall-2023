@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "RIT Principles of Quantum Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "RIT Principles of Quantum Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "RIT Principles of Quantum Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md"
+                "file": "RIT Principles of Quantum Technology.md"
               }
             }
           },
@@ -157,11 +157,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "437274d9c214a497",
+  "active": "b60adad4bda15d2a",
   "lastOpenFiles": [
+    "PHYS-670/Reading Notes 3.md",
     "PHYS-670/Reading Notes 1.md",
     "PHYS-670/Reading Notes 0.md",
-    "PHYS-670/Reading Notes 3.md",
     "RIT Teaching Mathematics & Physics.md",
     "RIT Thermal & Statistical Mechanics.md",
     "RIT Principles of Quantum Technology.md",
