@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RIT Principles of Quantum Technology.md",
+                "file": "PHYS-670/Reading Notes 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RIT Principles of Quantum Technology.md",
+                "file": "PHYS-670/Reading Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RIT Principles of Quantum Technology.md",
+                "file": "PHYS-670/Reading Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RIT Principles of Quantum Technology.md"
+                "file": "PHYS-670/Reading Notes 3.md"
               }
             }
           },
@@ -157,14 +157,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b60adad4bda15d2a",
+  "active": "437274d9c214a497",
   "lastOpenFiles": [
+    "RIT Teaching Mathematics & Physics.md",
+    "RIT Principles of Quantum Technology.md",
     "PHYS-670/Reading Notes 3.md",
     "PHYS-670/Reading Notes 1.md",
     "PHYS-670/Reading Notes 0.md",
-    "RIT Teaching Mathematics & Physics.md",
     "RIT Thermal & Statistical Mechanics.md",
-    "RIT Principles of Quantum Technology.md",
     "CPME-789/Linear Algebra.md",
     "PHYS-315/Measuring G.md",
     "RIT Graduate Quantum Technologies.md",

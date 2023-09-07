@@ -1,9 +1,9 @@
 Referenced Article: Textbook
 ## Summary<hr>
 #### What was the paper about?
- - The comparison between behaviorist and constructivist learning
+ - The comparison between behaviorist and constructivist learning.
 	 - That constructivist stems from behaviorist.
- - Behaviorist:
+ - Behaviorist
 	 - Breaking down complex topics into small sections, and reinforcing them one at at time.
 	 - Useful for training, but not so much in physics
  - Constructivist
