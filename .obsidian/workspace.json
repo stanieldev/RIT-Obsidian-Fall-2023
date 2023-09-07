@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fdf3e8c0304c343",
+        "id": "7fa8711209028e50",
         "type": "tabs",
         "children": [
           {
-            "id": "226df4d27f8b5d38",
+            "id": "437274d9c214a497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RIT Modern Physics Lab.md",
+                "file": "PHYS-670/Reading Notes 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RIT Modern Physics Lab.md",
+                "file": "PHYS-670/Reading Notes 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RIT Modern Physics Lab.md",
+                "file": "PHYS-670/Reading Notes 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RIT Modern Physics Lab.md"
+                "file": "PHYS-670/Reading Notes 3.md"
               }
             }
           },
@@ -147,40 +147,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "226df4d27f8b5d38",
+  "active": "437274d9c214a497",
   "lastOpenFiles": [
-    "PHYS-315/Measuring G.md",
-    "RIT Modern Physics Lab.md",
-    "RIT Principles of Quantum Technology.md",
-    "RIT Graduate Quantum Technologies.md",
-    "Boltzmann Constant.md",
-    "RIT Thermal & Statistical Mechanics.md",
-    "RIT Teaching Mathematics & Physics.md",
-    "PHYS-315/Friday Lecture 1.md",
-    "PHYS-670/Reading Notes 2.md",
-    "PHYS-440/Lecture 3.md",
-    "CPME-789/Linear Algebra.md",
-    "PHYS-440/Energy.md",
-    "Thermal Equilibrium.md",
-    "CPME-789/Introduction.md",
-    "CPME-789/Lecture 1.md",
-    "_/Boltzmann Constant.md",
-    "_",
-    "Temperature.md",
-    "PHYS-440/Concept of Temperature.md",
-    "PHYS-315/Measuring G",
     "PHYS-670/Reading Notes 1.md",
     "PHYS-670/Reading Notes 0.md",
+    "PHYS-670/Reading Notes 3.md",
+    "RIT Teaching Mathematics & Physics.md",
+    "RIT Thermal & Statistical Mechanics.md",
+    "RIT Principles of Quantum Technology.md",
+    "CPME-789/Linear Algebra.md",
+    "PHYS-315/Measuring G.md",
+    "RIT Graduate Quantum Technologies.md",
+    "PHYS-440/Lecture 3.md",
+    "Boltzmann Constant.md",
+    "RIT Modern Physics Lab.md",
+    "entropy.md",
+    "PHYS-670/Reading Notes 2.md",
+    "PHYS-315/Friday Lecture 1.md",
+    "PHYS-315/Measuring G",
+    "PHYS-440/Energy.md",
+    "CPME-789/Introduction.md",
+    "Untitled",
+    "PHYS-440/Concept of Temperature.md",
     "PHYS-315/Electron Diffraction.md",
     "Atomic Spectra.md",
     "PHYS-251",
@@ -191,6 +189,8 @@
     "PHYS-789/Quantum Error.md",
     "PHYS-789/Quantum Volume.md",
     "PHYS-789/Shor's algorithm.md",
+    "PHYS-789/QMetrics.md",
+    "PHYS-789/Quantum Compiler.md",
     "CPME-789",
     "CPME-789",
     "Unneeded/Demo Canvas.canvas",
