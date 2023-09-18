@@ -14,3 +14,5 @@ Where $J$ is [[Joule (Unit)\|Joules]] and $K$ is [[Kelvin (Unit)\|Kelvin]].
 ### Applications
 
 
+
+https://mycourses.rit.edu/d2l/home/1038081
