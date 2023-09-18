@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa8711209028e50",
+        "id": "c9c5c3844ca404e5",
         "type": "tabs",
         "children": [
           {
-            "id": "437274d9c214a497",
+            "id": "144bc981cecfa1e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "RIT Thermal & Statistical Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "RIT Thermal & Statistical Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "RIT Thermal & Statistical Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md"
+                "file": "RIT Thermal & Statistical Mechanics.md"
               }
             }
           },
@@ -157,26 +157,32 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "437274d9c214a497",
+  "active": "b60adad4bda15d2a",
   "lastOpenFiles": [
-    "RIT Teaching Mathematics & Physics.md",
-    "RIT Principles of Quantum Technology.md",
-    "PHYS-670/Reading Notes 3.md",
-    "PHYS-670/Reading Notes 1.md",
-    "PHYS-670/Reading Notes 0.md",
-    "RIT Thermal & Statistical Mechanics.md",
-    "CPME-789/Linear Algebra.md",
-    "PHYS-315/Measuring G.md",
-    "RIT Graduate Quantum Technologies.md",
-    "PHYS-440/Lecture 3.md",
     "Boltzmann Constant.md",
-    "RIT Modern Physics Lab.md",
-    "entropy.md",
-    "PHYS-670/Reading Notes 2.md",
+    "RIT Graduate Quantum Technologies.md",
+    "RIT Thermal & Statistical Mechanics.md",
+    "RIT Teaching Mathematics & Physics.md",
+    "CPME-789/Introduction.md",
+    "PHYS-315/Measuring G.md",
     "PHYS-315/Friday Lecture 1.md",
+    "CPME-789/Linear Algebra.md",
+    "RIT Modern Physics Lab.md",
+    "RIT Principles of Quantum Technology.md",
+    "Excalidraw/Drawing 2023-09-17 20.33.08.excalidraw.md",
+    "Excalidraw",
+    "PHYS-670/Reading Notes 8.md",
+    "PHYS-670/Reading Notes 6.md",
+    "PHYS-670/Reading Notes 4.md",
+    "PHYS-670/Reading Notes 2.md",
+    "PHYS-670/Reading Notes 3.md",
+    "PHYS-670/Reading Notes 9.md",
+    "PHYS-670/Reading Notes 14.md",
+    "PHYS-670/Reading Notes 0.md",
+    "PHYS-440/Lecture 3.md",
+    "entropy.md",
     "PHYS-315/Measuring G",
     "PHYS-440/Energy.md",
-    "CPME-789/Introduction.md",
     "Untitled",
     "PHYS-440/Concept of Temperature.md",
     "PHYS-315/Electron Diffraction.md",
@@ -186,16 +192,10 @@
     "PHYS-315",
     "PHYS-670",
     "PHYS-789/Linear system of equations.md",
-    "PHYS-789/Quantum Error.md",
-    "PHYS-789/Quantum Volume.md",
-    "PHYS-789/Shor's algorithm.md",
-    "PHYS-789/QMetrics.md",
-    "PHYS-789/Quantum Compiler.md",
     "CPME-789",
     "CPME-789",
     "Unneeded/Demo Canvas.canvas",
     "Unneeded",
-    "Unneeded/home_1.jpg",
-    "Recording 20230817002029.webm"
+    "Unneeded/home_1.jpg"
   ]
 }
