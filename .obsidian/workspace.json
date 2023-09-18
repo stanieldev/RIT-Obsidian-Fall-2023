@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa8711209028e50",
+        "id": "2fc7306a947f0efc",
         "type": "tabs",
         "children": [
           {
-            "id": "437274d9c214a497",
+            "id": "5b43616d50bde3d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "CPME-789/Homework 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,25 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f08edc48d6f878f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS-315/Friday Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "CPME-789/Homework 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md",
+                "file": "CPME-789/Homework 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-670/Reading Notes 3.md"
+                "file": "CPME-789/Homework 1.md"
               }
             }
           },
@@ -135,6 +148,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "a9963c0615a0426a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -157,26 +180,32 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "437274d9c214a497",
+  "active": "5b43616d50bde3d1",
   "lastOpenFiles": [
+    "CPME-789/hw1q3.png",
+    "CPME-789/Introduction.md",
+    "CPME-789/Linear Algebra.md",
+    "CPME-789/Homework 1.md",
+    "RIT Graduate Quantum Technologies.md",
+    "RIT Thermal & Statistical Mechanics.md",
+    "PHYS-315/Atomic Spectra.md",
+    "Excalidraw/Drawing 2023-09-15 09.21.44.excalidraw.md",
+    "PHYS-315/Friday Lecture 2.md",
+    "Excalidraw",
+    "RIT Modern Physics Lab.md",
+    "PHYS-315/Measuring G.md",
     "RIT Teaching Mathematics & Physics.md",
-    "RIT Principles of Quantum Technology.md",
     "PHYS-670/Reading Notes 3.md",
+    "RIT Principles of Quantum Technology.md",
     "PHYS-670/Reading Notes 1.md",
     "PHYS-670/Reading Notes 0.md",
-    "RIT Thermal & Statistical Mechanics.md",
-    "CPME-789/Linear Algebra.md",
-    "PHYS-315/Measuring G.md",
-    "RIT Graduate Quantum Technologies.md",
     "PHYS-440/Lecture 3.md",
     "Boltzmann Constant.md",
-    "RIT Modern Physics Lab.md",
     "entropy.md",
     "PHYS-670/Reading Notes 2.md",
     "PHYS-315/Friday Lecture 1.md",
     "PHYS-315/Measuring G",
     "PHYS-440/Energy.md",
-    "CPME-789/Introduction.md",
     "Untitled",
     "PHYS-440/Concept of Temperature.md",
     "PHYS-315/Electron Diffraction.md",
@@ -186,16 +215,10 @@
     "PHYS-315",
     "PHYS-670",
     "PHYS-789/Linear system of equations.md",
-    "PHYS-789/Quantum Error.md",
-    "PHYS-789/Quantum Volume.md",
-    "PHYS-789/Shor's algorithm.md",
-    "PHYS-789/QMetrics.md",
-    "PHYS-789/Quantum Compiler.md",
     "CPME-789",
     "CPME-789",
     "Unneeded/Demo Canvas.canvas",
     "Unneeded",
-    "Unneeded/home_1.jpg",
-    "Recording 20230817002029.webm"
+    "Unneeded/home_1.jpg"
   ]
 }

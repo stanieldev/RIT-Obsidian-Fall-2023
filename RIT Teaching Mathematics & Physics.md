@@ -44,3 +44,6 @@ Conceptual Memory
  - X and Y share common info, define shared responses.
 Propreotic Memory
  - Activation of sections to move and regulate the state of self.
+
+
+

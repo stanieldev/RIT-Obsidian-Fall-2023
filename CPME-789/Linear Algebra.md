@@ -38,3 +38,7 @@ $$ -1 = e^{i \pi} $$
 #### The Hadamard Basis:
 $\ket{+} = \dfrac{1}{\sqrt{2}}\ket{0} + \dfrac{1}{\sqrt{2}}e^{i0}\ket{1}$
 $\ket{-} = \dfrac{1}{\sqrt{2}}\ket{0} + \dfrac{1}{\sqrt{2}}e^{i\pi}\ket{1}$
+
+### Tensor Product
+$$ A \otimes B = a^i b^j (e_i \otimes e_j) $$
+$$ C_{ij} = A_{ij} B $$
