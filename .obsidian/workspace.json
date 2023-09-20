@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc7306a947f0efc",
+        "id": "1325d0f2aebf39a9",
         "type": "tabs",
         "children": [
           {
-            "id": "5b43616d50bde3d1",
+            "id": "fab64b1264e740f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPME-789/Homework 1.md",
+                "file": "PHYS-440/Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPME-789/Homework 1.md",
+                "file": "PHYS-440/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPME-789/Homework 1.md",
+                "file": "PHYS-440/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPME-789/Homework 1.md"
+                "file": "PHYS-440/Entropy.md"
               }
             }
           },
@@ -180,21 +179,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5b43616d50bde3d1",
+  "active": "fab64b1264e740f0",
   "lastOpenFiles": [
+    "RIT Thermal & Statistical Mechanics.md",
+    "CPME-789/Homework 1.md",
+    "PHYS-440/Entropy.md",
+    "RIT Teaching Mathematics & Physics.md",
+    "PHYS-315/Atomic Spectra.md",
     "CPME-789/hw1q3.png",
     "CPME-789/Introduction.md",
     "CPME-789/Linear Algebra.md",
-    "CPME-789/Homework 1.md",
     "RIT Graduate Quantum Technologies.md",
-    "RIT Thermal & Statistical Mechanics.md",
-    "PHYS-315/Atomic Spectra.md",
     "Excalidraw/Drawing 2023-09-15 09.21.44.excalidraw.md",
     "PHYS-315/Friday Lecture 2.md",
     "Excalidraw",
     "RIT Modern Physics Lab.md",
     "PHYS-315/Measuring G.md",
-    "RIT Teaching Mathematics & Physics.md",
     "PHYS-670/Reading Notes 3.md",
     "RIT Principles of Quantum Technology.md",
     "PHYS-670/Reading Notes 1.md",
