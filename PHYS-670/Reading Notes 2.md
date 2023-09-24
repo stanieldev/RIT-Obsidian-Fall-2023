@@ -33,3 +33,7 @@ The way that I learn, while similar in a lot of aspect, seems to be quite differ
 #### What key terms, concepts, or methods did you find most difficult to understand?
 I don't seem to understand their section on concrete vs abstract thought. They claim that we're naturally built for concrete linear logic and that we have to go out of our way to abstract, but I've found this not to be the case in a lot of people I've met. Some never seem to grasp higher abstraction, while others seem to have picked up on it since their very early years.
 It also covered the physical aspect of the brain's existence, but not really the human aspect of environment bar a small section about increased brainpower in our social region because of becoming social creatures. I did find the section about our intelligence being linked to our tools to be quite interesting though.
+
+
+## Overall Feedback
+on the concrete vs abstract issue, it isn't saying people don't get comfortable doing abstract thought. Through practice people learn to get comfortable doing all kinds of various things (writing, sewing, football). Abstract thought is similar. But our brains also do lots of powerful cognition almost effortlessly in the background that we aren't aware of, while abstract thought requires a deliberate focusing of the brain. For some people, that abstract thought becomes quite enjoyable and satisfying, and they do it much better than other people, but still it takes a deliberate focus. While things like walking and perceiving shapes and identifying objects just happens naturally. 

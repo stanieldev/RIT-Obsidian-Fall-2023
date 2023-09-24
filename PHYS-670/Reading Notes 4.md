@@ -47,3 +47,8 @@ Using analogies and intuition by building it from the ground up has been immense
 Absolutely! Seeing it written on paper what I had already experience from trial-and-error makes it a lot more concrete to me on what it is about.
 #### What key terms, concepts, or methods did you find most difficult to understand?
 I find the idea of some kinds of misconception to be a bit odd to me. I can't recall a time I had been corrected on something and had reverted back to my previous intuition unless I considered the explanation to be wrong, which was rare since most of the correcting was done by teachers and professors. Perhaps I have and I just haven't noticed, which is entirely possible.
+
+
+### Overall Feedback
+Your big idea that "misconceptions using constructivism is usually from misattribution" probably needs to be clarified. As the Knowledge in Pieces  reading that came next discusses, the P-Prims are mechanistic models that are useful in everyday life, and those often form some of our most robust naive reasoning patterns that can conflict with the formal physics reasoning. 
+Correcting someone and then reverting back to and old idea may not be obvious to the learner because the "reverting back" usually happens in a new context. So the learner doesn't see the connection between new and old situations so clearly (because they are not an expert yet). Generally I would not expect the learner to be self-aware of reverting back to previous intuition.

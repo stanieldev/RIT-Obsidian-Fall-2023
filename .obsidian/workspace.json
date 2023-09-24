@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "851108b775a70898",
+        "id": "dcd4c8567d68bb95",
         "type": "tabs",
         "children": [
           {
-            "id": "138506304fb22a4d",
+            "id": "296414ba04ebb9fa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,17 +159,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "138506304fb22a4d",
+  "active": "296414ba04ebb9fa",
   "lastOpenFiles": [
-    "PHYS-670/Homework 4.md",
+    "PHYS-670/Reading Notes 4.md",
     "RIT Teaching Mathematics & Physics.md",
+    "PHYS-670/Reading Notes 2.md",
+    "RIT Graduate Quantum Technologies.md",
+    "PHYS-670/Homework 4.md",
     "PHYS-670/Homework 3.md",
     "PHYS-670/Homework 2.md",
     "RIT Thermal & Statistical Mechanics.md",
     "PHYS-315/Atomic Spectra.md",
     "PHYS-315/Friday Lecture 1.md",
     "PHYS-670/Reading Notes 8.md",
-    "RIT Graduate Quantum Technologies.md",
     "Boltzmann Constant.md",
     "RIT Modern Physics Lab.md",
     "RIT Principles of Quantum Technology.md",
@@ -179,8 +181,6 @@
     "Excalidraw/Drawing 2023-09-17 20.33.08.excalidraw.md",
     "Excalidraw",
     "PHYS-670/Reading Notes 6.md",
-    "PHYS-670/Reading Notes 4.md",
-    "PHYS-670/Reading Notes 2.md",
     "PHYS-670/Reading Notes 3.md",
     "PHYS-670/Reading Notes 9.md",
     "PHYS-670/Reading Notes 14.md",
