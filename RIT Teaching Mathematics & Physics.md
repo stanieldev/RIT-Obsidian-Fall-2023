@@ -1,4 +1,7 @@
 #RIT #PHYS-670
+[[PHYS-670/Homework 2\|Homework #2]]
+[[PHYS-670/Homework 3\|Homework #3]]
+[[PHYS-670/Homework 4\|Homework #4]]
 
 Lecture | Unit | Topic | Reading
 -----|-----|-----|-----
@@ -30,6 +33,9 @@ Lecture | Unit | Topic | Reading
 26 | Technology in Physics Ed | Are sims better than real labs? What affordances do sims provide for learning? | [[PHYS-670/Reading Notes 26\|Finkelstein (2005), When learning about the real world is better done virtually: A study of substituting computer simulations for laboratory equipment]]
 27 | Technology in Physics Ed | Real-time physics labs, Computer-based sensors and data acquisition. | [[PHYS-670/Reading Notes 27\|Sokoloff (2007) RealTime Physics: active learning labs transforming the introductory laboratory]]
 28 | Technology in Physics Ed | Computational Literacy and programming in physics courses. | [[PHYS-670/Reading Notes 28\|Odden (2019) Physics computational literacy: An exploratory case study using computational essays]]
+
+
+
 
 
 

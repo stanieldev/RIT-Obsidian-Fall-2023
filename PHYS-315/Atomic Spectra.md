@@ -8,8 +8,8 @@ Plot 1/lambda vs. 1/n_i^2 to find R_H
 
 
 $$ R_H = 4b, \ |\delta R_H| = 4|\delta b|$$
-$$ R_H \pm \delta R_H = (0.0109 \pm 0.0001)nm $$
-$$ R_H \pm \delta R_H = (0.0109 \pm 0.0003)nm $$
+$$ R_H \pm \delta R_H = (0.0109 \pm 0.0001) \text{nm}^{-1} $$
+$$ R_H \pm \delta R_H = (0.0109 \pm 0.0003)\text{nm}^{-1} $$
 
 $R_H$ +/- δ$R_H$ = 0.0109nm^-1 +/- nm^-1
 
@@ -35,11 +35,34 @@ $$ \begin{align} \lambda_V &= 401.049nm \pm 6.079nm \ \ \ \ \ (r^2=99.88\%)
 \\ \lambda_R &= 660.589nm \pm 3.467nm \ \ \ \ \ (r^2=99.99\%)
 \end{align}$$
 
+$$ \begin{align} \lambda_V &= 410.196\text{nm} \pm 0.033 \text{nm}
+\\ \lambda_B &= 434.049\text{nm} \pm 0.005\text{nm}
+\\ \lambda_C &= 485.983\text{nm} \pm 0.025\text{nm}
+\\ \lambda_R &= 660.109\text{nm} \pm 0.126\text{nm}
+\end{align}$$
+
+
+$$ s \pm \delta s = -0.0110 \text{nm}^{-1} \pm 0.0001\text{nm}^{-1}$$
+$$ b \pm \delta b = 0.0027 \text{nm}^{-1} \pm 0.0000\text{nm}^{-1}$$
+$$ R_H \pm \delta R_H = 0.0110 \text{nm}^{-1} \pm 0.0001\text{nm}^{-1}$$
+$$ R_H \pm \delta R_H = 0.0110 \text{nm}^{-1} \pm 0.0000\text{nm}^{-1}$$
+
+
+
+$$ \dfrac{R_H^c - R_H}{R_H} \approx 0.502 \%$$
+
+$$ R^c_H - R_H \approx 0.0863 \cdot \delta R^c_H$$
+
+
+
+
+
+
+
 $$ s \pm \delta s = -0.0109 \text{nm}^{-1} \pm 0.0003\text{nm}^{-1}$$
 $$ b \pm \delta b = 0.0027 \text{nm}^{-1} \pm 0.0001\text{nm}^{-1}$$
 
 
 
 $$ R^c_H - R_H \approx 0.0863 \cdot \delta R^c_H$$
-
 

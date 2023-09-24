@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c5c3844ca404e5",
+        "id": "851108b775a70898",
         "type": "tabs",
         "children": [
           {
-            "id": "144bc981cecfa1e2",
+            "id": "138506304fb22a4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS-315/Friday Lecture 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-315/Friday Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-315/Friday Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PHYS-315/Friday Lecture 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,18 +159,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b60adad4bda15d2a",
+  "active": "138506304fb22a4d",
   "lastOpenFiles": [
+    "PHYS-670/Homework 4.md",
     "RIT Teaching Mathematics & Physics.md",
-    "PHYS-670/Reading Notes 8.md",
+    "PHYS-670/Homework 3.md",
+    "PHYS-670/Homework 2.md",
     "RIT Thermal & Statistical Mechanics.md",
+    "PHYS-315/Atomic Spectra.md",
+    "PHYS-315/Friday Lecture 1.md",
+    "PHYS-670/Reading Notes 8.md",
     "RIT Graduate Quantum Technologies.md",
     "Boltzmann Constant.md",
     "RIT Modern Physics Lab.md",
     "RIT Principles of Quantum Technology.md",
     "CPME-789/Introduction.md",
     "PHYS-315/Measuring G.md",
-    "PHYS-315/Friday Lecture 1.md",
     "CPME-789/Linear Algebra.md",
     "Excalidraw/Drawing 2023-09-17 20.33.08.excalidraw.md",
     "Excalidraw",
@@ -194,14 +190,10 @@
     "PHYS-315/Measuring G",
     "PHYS-440/Energy.md",
     "Untitled",
-    "PHYS-440/Concept of Temperature.md",
-    "PHYS-315/Electron Diffraction.md",
-    "Atomic Spectra.md",
     "PHYS-251",
     "PHYS-440",
     "PHYS-315",
     "PHYS-670",
-    "PHYS-789/Linear system of equations.md",
     "CPME-789",
     "CPME-789",
     "Unneeded/Demo Canvas.canvas",
