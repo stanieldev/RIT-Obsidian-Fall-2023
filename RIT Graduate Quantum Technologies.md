@@ -1,10 +1,11 @@
 #RIT #CPME-789
-### Tentative Schedule
 
+TODO: Finish Later
+### Tentative Schedule
 Week | Overview | Topics
 ------ | ------ | -------
 1 | [[CPME-789/Introduction\|Introduction]]
-2 | [[CPME-789/Linear Algebra\|Linear Algebra]]
+2 | [[OLD Linear Algebra\|Linear Algebra]]
 3 | [[CPME-789/Quantum Mechanics\|Quantum Mechanics]]
 4 | [[CPME-789/Quantum Circuits\|Quantum Circuits]]
 5 | [[CPME-789/Quantum Circuits\|Quantum Circuits]]

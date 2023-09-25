@@ -1,8 +1,8 @@
-[[https://mycourses.rit.edu/d2l/le/content/1044537/viewContent/9378283/View\|FMCE Data Anonymized]]
-[[https://mycourses.rit.edu/d2l/le/content/1044537/viewContent/9378284/View\|BEMA Data Anonymized]]
-### Background  
+[FMCE Data Anonymized](https://mycourses.rit.edu/d2l/le/content/1044537/viewContent/9378283/View)
+[BEMA Data Anonymized](https://mycourses.rit.edu/d2l/le/content/1044537/viewContent/9378284/View)
+### Background
 We received 12 student responses for the Brief Electricity and Magnetism Assessment (BEMA) and the Force and Motion Conceptual Evaluation. A spreadsheet of anonymized results is posted on MyCourses so you can see which questions were easier or harder. The answer key is provided and the spreadsheet tallies up the total number of correct responses for each question. Several questions, especially on the BEMA, were hard.  
-### Your assignment  
+### Your assignment
 1. Look at the spreadsheet of FMCE results and the PDF of FMCE questions. Both are available on MyCourses->Content->Homework.
 	1. Select 2 of the harder FMCE questions (at most 8 of 12 students were correct). There are several to choose from so feel free to select harder questions that look most interesting to you.  
 2. In the same way, look at the spreadsheet of BEMA results and the PDF of BEMA questions. Both are available on MyCourses->Content->Homework.

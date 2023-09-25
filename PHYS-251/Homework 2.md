@@ -50,7 +50,6 @@ c) 2 Real Numbers are required to specify a qubit.
 5. A source produces a beam of spin ½ qubits in the state $\ket{\psi} = \sqrt{\dfrac{9}{34}}\ket{+} +  \sqrt{\dfrac{25}{34}}e^{i\tfrac{\pi}{4}}\ket{-}$
 a) Find the probability of spin up and spin down in the z-direction
 
-
 b) The output of X will be exactly 50/50 from the Z.
 
 c) Schematic of the analyzer

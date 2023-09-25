@@ -16,6 +16,7 @@ $$\psi = \dfrac{1}{\sqrt{4}}\ket{00} - \dfrac{1}{\sqrt{4}}\ket{01} + \dfrac{1}{\
 3. Implement the circuit above in Qiskit’s circuit composer (show a capture of the circuit) and show the result in the probability distribution and block spheres.
 ![[hw1q3.png]]
 
+
 4. Show that the spectral decomposition of $\sigma_y$  is $\sigma_y = \ket{i}\bra{i} - \ket{-i}\bra{-i}$
 $$\begin{align} \sigma_y &= \dfrac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ i \end{bmatrix} \dfrac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ i \end{bmatrix}^\dagger - \dfrac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ -i \end{bmatrix} \dfrac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ -i \end{bmatrix}^\dagger \\ &= \dfrac{1}{2}\left(\begin{bmatrix} 1 \\ i \end{bmatrix} \begin{bmatrix} 1 & -i \end{bmatrix} - \begin{bmatrix} 1 \\ -i \end{bmatrix} \begin{bmatrix} 1 & i \end{bmatrix}\right) \\ &= \dfrac{1}{2}\left(\begin{bmatrix} 1 & -i \\ i & 1 \end{bmatrix} - \begin{bmatrix} 1 & i \\ -i & 1 \end{bmatrix}\right) \\ &= \dfrac{1}{2}\begin{bmatrix} 1-1 & -i-i \\ i+i & 1-1 \end{bmatrix} = \dfrac{1}{2}\begin{bmatrix} 0 & -2i \\ 2i & 0 \end{bmatrix} = \begin{bmatrix} 0 & -i \\ i & 0 \end{bmatrix} \end{align}$$
 

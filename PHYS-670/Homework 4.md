@@ -1,4 +1,4 @@
-[[https://mycourses.rit.edu/d2l/le/content/1044537/viewContent/9378290/View\|Outline of Homework #4]]
+[Outline of Homework #4](https://mycourses.rit.edu/d2l/le/content/1044537/viewContent/9378290/View)
 ## Creating a concept map of our PER course
 
 ### Phase 1: individual small concept map (start in class Tuesday 11/30)
