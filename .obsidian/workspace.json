@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31fb609eaf61a31c",
+        "id": "8941ad5e2c0ac50e",
         "type": "tabs",
         "children": [
           {
-            "id": "f06b5dab9c0dd47f",
+            "id": "a70830579260a6ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PHYS-440/Closed System.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,18 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5a580a7162fa9152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS-440/Zeroth Law of Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHYS-440/Closed System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHYS-440/Closed System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PHYS-440/Closed System.md"
+              }
             }
           },
           {
@@ -159,34 +179,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b60adad4bda15d2a",
+  "active": "a70830579260a6ec",
   "lastOpenFiles": [
-    "RIT Thermal & Statistical Mechanics.md",
-    "RIT Teaching Mathematics & Physics.md",
-    "RIT Graduate Quantum Technologies.md",
-    "RIT Modern Physics Lab.md",
-    "OLD Boltzmann Constant.md",
-    "CPME-789/QBit Gates.md",
-    "CPME-789/Quantum Binary Basis.md",
-    "CPME-789/Outer Product.md",
-    "CPME-789/Inner Product.md",
-    "RIT Principles of Quantum Technology.md",
-    "PHYS-440/Statistical Mechanics.md",
-    "PHYS-440/Entropy.md",
-    "PHYS-440/Energy in Thermal Physics.md",
     "PHYS-440/Thermodynamics.md",
-    "PHYS-670/Reading Notes 14.md",
-    "PHYS-670/Reading Notes 9.md",
-    "PHYS-670/Reading Notes 8.md",
-    "PHYS-670/Reading Notes 6.md",
-    "PHYS-670/Reading Notes 4.md",
-    "PHYS-670/Reading Notes 2.md",
-    "PHYS-670/Reading Notes 0.md",
-    "PHYS-670/Homework 4.md",
-    "PHYS-670/Homework 3.md",
-    "PHYS-670/Homework 2.md",
-    "PHYS-251/Homework 2.md",
-    "CPME-789/Tensor Product.md",
+    "PHYS-440/Thermodynamic Equilibrium.md",
+    "PHYS-440/Third Law of Thermodynamics.md",
+    "PHYS-440/Zeroth Law of Thermodynamics.md",
+    "PHYS-440/Thermodynamic Work.md",
+    "PHYS-440/Thermodynamic Systems.md",
+    "PHYS-440/Thermodynamic Processes.md",
+    "PHYS-440/Temperature.md",
+    "PHYS-440/Statistical Mechanics.md",
+    "PHYS-440/Second Law of Thermodynamics.md",
+    "PHYS-440/Open System.md",
+    "PHYS-440/Macrostates.md",
+    "PHYS-440/Microstates.md",
+    "PHYS-440/Laws of Thermodynamics.md",
+    "PHYS-440/Internal Energy.md",
+    "PHYS-440/Ideal Gas.md",
+    "PHYS-440/Heat Capacity.md",
+    "PHYS-440/Heat.md",
+    "PHYS-440/First Law of Thermodynamics.md",
+    "PHYS-440/Entropy.md",
+    "PHYS-440/Degrees of Freedom.md",
+    "PHYS-440/Conservation of Energy.md",
+    "PHYS-440/Closed System.md",
+    "PHYS-440/_Energy in Thermal Physics.md",
+    "PHYS-440/Isolated System.md",
+    "PHYS-440/_To Research.md",
     "CPME-789/hw1q3.png",
     "Untitled",
     "Excalidraw",

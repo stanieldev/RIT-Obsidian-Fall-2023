@@ -1,3 +1,4 @@
+TODO: https://en.wikipedia.org/wiki/Degrees_of_freedom_(physics_and_chemistry)
 ### Degrees of Freedom & Equipartition of Energy
  - Degrees of freedom (DoF): Independent physical parameters necessary to describe state of a system.
  - For a system with N particles, each with f degrees of freedom:
