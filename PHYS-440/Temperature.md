@@ -1,3 +1,6 @@
+TODO: [temperature](https://en.wikipedia.org/wiki/Temperature "Temperature")
+
+
 ### What is Temperature?
  - An intrinsic property of two systems that are in thermal equilibrium i.e. thermal contact for much longer than a relaxation time.
  - Energy is exchanged to establish thermal equilibrium. Objects at higher temperature spontaneously give up heat to objects at lower temperature!
@@ -13,6 +16,6 @@
 
 ### What is Temperature?
  - ~~The Feeling of warmth~~
- - An [[Intrinsic Property\|intrinsic property]] of 2 systems that are in [[Thermal Equilibrium\|thermal equilibrium]].
- - Energy is exchanged in order to establish [[Thermal Equilibrium\|thermal equilibrium]].
+ - An [[Intrinsic Property\|intrinsic property]] of 2 systems that are in [[Thermodynamic Equilibrium|thermal equilibrium]].
+ - Energy is exchanged in order to establish [[Thermodynamic Equilibrium|thermal equilibrium]].
  - Objects at higher temperatures spontaneously give up heat to objects at lower temperatures.
