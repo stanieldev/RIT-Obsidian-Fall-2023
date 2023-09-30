@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-440/Closed System.md",
+                "file": "CPME-789/QBit Gates.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-440/Closed System.md",
+                "file": "CPME-789/QBit Gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-440/Closed System.md",
+                "file": "CPME-789/QBit Gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-440/Closed System.md"
+                "file": "CPME-789/QBit Gates.md"
               }
             }
           },
@@ -181,6 +181,17 @@
   },
   "active": "a70830579260a6ec",
   "lastOpenFiles": [
+    "CPME-789/Quantum Binary Basis.md",
+    "CPME-789/QBit Gates.md",
+    "CPME-789/Outer Product.md",
+    "CPME-789/Inner Product.md",
+    "CPME-789/hw1q3.png",
+    "CPME-789/Homework 1.md",
+    "RIT Graduate Quantum Technologies.md",
+    "RIT Principles of Quantum Technology.md",
+    "PHYS-315/Electron Diffraction.md",
+    "PHYS-251/Homework 2.md",
+    "PHYS-440/Closed System.md",
     "PHYS-440/Thermodynamics.md",
     "PHYS-440/Thermodynamic Equilibrium.md",
     "PHYS-440/Third Law of Thermodynamics.md",
@@ -197,17 +208,6 @@
     "PHYS-440/Laws of Thermodynamics.md",
     "PHYS-440/Internal Energy.md",
     "PHYS-440/Ideal Gas.md",
-    "PHYS-440/Heat Capacity.md",
-    "PHYS-440/Heat.md",
-    "PHYS-440/First Law of Thermodynamics.md",
-    "PHYS-440/Entropy.md",
-    "PHYS-440/Degrees of Freedom.md",
-    "PHYS-440/Conservation of Energy.md",
-    "PHYS-440/Closed System.md",
-    "PHYS-440/_Energy in Thermal Physics.md",
-    "PHYS-440/Isolated System.md",
-    "PHYS-440/_To Research.md",
-    "CPME-789/hw1q3.png",
     "Untitled",
     "Excalidraw",
     "PHYS-315/Measuring G",
