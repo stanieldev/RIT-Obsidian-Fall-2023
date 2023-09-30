@@ -11,8 +11,12 @@
             "id": "f06b5dab9c0dd47f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PHYS-251/Homework 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHYS-251/Homework 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHYS-251/Homework 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PHYS-251/Homework 2.md"
+              }
             }
           },
           {
@@ -159,8 +167,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b60adad4bda15d2a",
+  "active": "f06b5dab9c0dd47f",
   "lastOpenFiles": [
+    "PHYS-251/hw2q5c.jpg",
+    "CPME-789/Homework 1.md",
+    "PHYS-251/Homework 2.md",
+    "CPME-789/Tensor Product.md",
     "RIT Thermal & Statistical Mechanics.md",
     "RIT Teaching Mathematics & Physics.md",
     "RIT Graduate Quantum Technologies.md",
@@ -183,10 +195,6 @@
     "PHYS-670/Reading Notes 2.md",
     "PHYS-670/Reading Notes 0.md",
     "PHYS-670/Homework 4.md",
-    "PHYS-670/Homework 3.md",
-    "PHYS-670/Homework 2.md",
-    "PHYS-251/Homework 2.md",
-    "CPME-789/Tensor Product.md",
     "CPME-789/hw1q3.png",
     "Untitled",
     "Excalidraw",
