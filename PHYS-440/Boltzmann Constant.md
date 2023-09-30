@@ -1,4 +1,5 @@
 #physical-constants #statistical-mechanics #entropy #statistics #constants
+TODO: https://en.wikipedia.org/wiki/Boltzmann_constant
 ### Definition
 $$\begin{align*}
 k_b &= 1.380649 \cdot 10^{−23} \ \text{J/K} \\
@@ -6,9 +7,3 @@ k_b &= 1.380649 \cdot 10^{−23} \ \text{J/K} \\
 \end{align*}
 $$
 Where $J$ is [[Joule (Unit)\|Joules]] and $K$ is [[Kelvin (Unit)\|Kelvin]].
-
-
-### Description
-
-
-### Applications

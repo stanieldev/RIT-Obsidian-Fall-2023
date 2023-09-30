@@ -11,5 +11,3 @@
 ### Friday Lectures
 > [[PHYS-315/Friday Lecture 1\|Friday Lecture #1]]
 > [[PHYS-315/Friday Lecture 2\|Friday Lecture #2]]
-
-
