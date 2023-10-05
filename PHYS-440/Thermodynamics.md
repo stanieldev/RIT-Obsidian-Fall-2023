@@ -10,6 +10,11 @@ TODO: https://en.wikipedia.org/wiki/Thermodynamics
  - 3rd Law: [[Third Law of Thermodynamics|Absolute Zero Temperature]]
 
 
+T dS = dQ
+$$dU = T dS - P dV + \mu dN$$
+$$\dfrac{1}{T} = \dfrac{\partial S}{\partial U}_{V,N}, \dfrac{P}{T} = \dfrac{\partial S}{\partial V}_{U,N}, \dfrac{\mu}{T} = \dfrac{\partial S}{\partial U}_{U,V}$$
+
+
 
 
 

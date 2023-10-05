@@ -5,3 +5,17 @@ $$ \Delta U = Q + W $$
  - $\Delta U$ is the change in [[Internal Energy\|internal energy]] of a system.
  - $Q$ is the [[Heat\|heat]] added or removed from a system.
  - $W$ is the [[Thermodynamic Work\|thermodynamic work]] done on or by the system.
+### Fundamental Relations
+$$\begin{align}
+dU &= T dS - P dV + \displaystyle\sum_i \mu_iN_i \\
+dH &= T dS + V dP \\
+dF &= -SdT - PdV \\
+dG &= -SdT + V dP
+\end{align}$$https://en.wikipedia.org/wiki/Fundamental_thermodynamic_relation
+
+Helmholtz Free Energy
+$$\Delta F = \Delta U - T \Delta S$$
+### Example: Spring and Gas
+$\Delta U = 0$
+$\Delta S = N k_b \log \dfrac{V_f}{V_i}$
+$$\Delta F = \Delta U - T \Delta S = -N k_b T\log \left(\dfrac{V_f}{V_i}\right)$$
