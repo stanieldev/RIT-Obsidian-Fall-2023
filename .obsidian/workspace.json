@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-315/Atomic Spectra.md",
+                "file": "PHYS-315/Thermal Radiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-315/Atomic Spectra.md",
+                "file": "PHYS-315/Thermal Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-315/Atomic Spectra.md",
+                "file": "PHYS-315/Thermal Radiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-315/Atomic Spectra.md"
+                "file": "PHYS-315/Thermal Radiation.md"
               }
             }
           },
@@ -181,6 +181,11 @@
   },
   "active": "a70830579260a6ec",
   "lastOpenFiles": [
+    "RIT Teaching Mathematics & Physics.md",
+    "RIT Thermal & Statistical Mechanics.md",
+    "PHYS-315/Thermal Radiation.md",
+    "PHYS-315/Atomic Spectra.md",
+    "PHYS-440/Boltzmann Constant.md",
     "PHYS-315/Measuring G.md",
     "PHYS-315/Electron Diffraction.md",
     "PHYS-315/Friday Lecture 1.md",
@@ -202,11 +207,6 @@
     "PHYS-440/Isolated System.md",
     "PHYS-440/Thermodynamic Systems.md",
     "PHYS-440/Thermodynamic Equilibrium.md",
-    "CPME-789/Tensor Algebra.md",
-    "CPME-789/Tensor Product.md",
-    "CPME-789/Homework 1.md",
-    "RIT Teaching Mathematics & Physics.md",
-    "CPME-789/QBit Gates.md",
     "CPME-789/hw1q3.png",
     "Untitled",
     "Excalidraw",
