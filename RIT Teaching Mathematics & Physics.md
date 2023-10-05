@@ -1,9 +1,10 @@
 #RIT #PHYS-670
-[[PHYS-670/Homework 1\|Homework #1]]
-[[PHYS-670/Homework 2\|Homework #2]]
-[[PHYS-670/Homework 3\|Homework #3]]
-[[PHYS-670/Homework 4\|Homework #4]]
-
+### Homework
+> [[PHYS-670/Homework 1\|Homework #1]]
+> [[PHYS-670/Homework 2\|Homework #2]]
+> [[PHYS-670/Homework 3\|Homework #3]]
+> [[PHYS-670/Homework 4\|Homework #4]]
+### Lecture Outline
 Lecture | Unit | Topic | Reading
 -----|-----|-----|-----
 1 | Intro & History | How did PER start? How is it different from Science Education? | [[PHYS-670/Introduction\|Introduction]]
