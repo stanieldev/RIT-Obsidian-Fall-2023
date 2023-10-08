@@ -1,4 +1,4 @@
-TODO: https://en.wikipedia.org/wiki/Enthalpy
+#TODO: https://en.wikipedia.org/wiki/Enthalpy
 ### Heat Capacities
 $$C = \dfrac{Q}{\Delta T} = \dfrac{\Delta U - W}{\Delta T}$$
 At W = 0, Heat Capacity at Constant Volume

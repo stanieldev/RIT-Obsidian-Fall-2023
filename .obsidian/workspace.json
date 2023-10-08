@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-315/Thermal Radiation.md",
+                "file": "PHYS-251/Homework 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-315/Thermal Radiation.md",
+                "file": "PHYS-251/Homework 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-315/Thermal Radiation.md",
+                "file": "PHYS-251/Homework 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-315/Thermal Radiation.md"
+                "file": "PHYS-251/Homework 3.md"
               }
             }
           },
@@ -181,32 +182,36 @@
   },
   "active": "a70830579260a6ec",
   "lastOpenFiles": [
-    "RIT Teaching Mathematics & Physics.md",
-    "RIT Thermal & Statistical Mechanics.md",
+    "PHYS-251/Homework 2.md",
+    "PHYS-251/Homework 3.md",
+    "CPME-789/Homework 2.md",
+    "CPME-789/hw2q6.png",
+    "CPME-789/Screenshot 2023-10-08 163410.png",
+    "CPME-789/Homework 1.md",
+    "CPME-789/hw2q5.png",
+    "CPME-789/hw2q4.png",
+    "CPME-789/Quantum Binary Basis.md",
+    "CPME-789/QBit Gates.md",
+    "RIT Graduate Quantum Technologies.md",
+    "CPME-789/Deutsch–Jozsa Algorithm.md",
     "PHYS-315/Thermal Radiation.md",
-    "PHYS-315/Atomic Spectra.md",
-    "PHYS-440/Boltzmann Constant.md",
-    "PHYS-315/Measuring G.md",
-    "PHYS-315/Electron Diffraction.md",
-    "PHYS-315/Friday Lecture 1.md",
+    "PHYS-440/Laws of Thermodynamics.md",
+    "PHYS-440/Heat Capacity.md",
+    "PHYS-440/Heat.md",
     "PHYS-440/First Law of Thermodynamics.md",
-    "PHYS-440/Zeroth Law of Thermodynamics.md",
-    "PHYS-440/Macrostates.md",
-    "PHYS-440/Ideal Gas.md",
+    "PHYS-440/Entropy.md",
     "PHYS-440/Degrees of Freedom.md",
     "PHYS-440/Conservation of Energy.md",
     "PHYS-440/Closed System.md",
+    "PHYS-440/Boltzmann Constant.md",
     "PHYS-440/_Energy in Thermal Physics.md",
-    "PHYS-440/Entropy.md",
-    "PHYS-440/Thermodynamics.md",
     "PHYS-440/Third Law of Thermodynamics.md",
-    "Thermal Equilibrium.md",
-    "PHYS-440/Heat.md",
-    "PHYS-440/Heat Capacity.md",
+    "PHYS-440/Second Law of Thermodynamics.md",
     "PHYS-440/Internal Energy.md",
+    "PHYS-440/Ideal Gas.md",
+    "PHYS-440/Macrostates.md",
+    "PHYS-440/Open System.md",
     "PHYS-440/Isolated System.md",
-    "PHYS-440/Thermodynamic Systems.md",
-    "PHYS-440/Thermodynamic Equilibrium.md",
     "CPME-789/hw1q3.png",
     "Untitled",
     "Excalidraw",

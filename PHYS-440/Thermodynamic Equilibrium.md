@@ -1,4 +1,4 @@
-TODO: [thermal equilibrium](https://en.wikipedia.org/wiki/Thermal_equilibrium "Thermal equilibrium")
+#TODO: [thermal equilibrium](https://en.wikipedia.org/wiki/Thermal_equilibrium "Thermal equilibrium")
 
 
 Types of Equilibrium

@@ -1,4 +1,4 @@
-TODO: [heat](https://en.wikipedia.org/wiki/Heat "Heat") 
+#TODO: [heat](https://en.wikipedia.org/wiki/Heat "Heat") 
 
 Heat (Q) is the spontaneous flow of energy due to temperature differential.
 Mechanisms

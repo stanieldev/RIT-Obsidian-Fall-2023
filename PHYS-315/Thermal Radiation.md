@@ -48,3 +48,15 @@ $$\begin{align}
 k &= \dfrac{4 \pi}{\sigma A_s\Omega} \implies kP = T^4-T_0^4
 \end{align}$$
 $$\ln P \approx -\ln k + 4\ln(T)$$
+
+$$\begin{align}
+s \pm ds &= +4.620510 \pm 0.179252 \\
+b \pm db &= -34.28242 \pm 1.380978 \\
+r^2 &= 97.6486\%
+\end{align}$$
+
+
+$$\begin{align}
+s \pm ds &= 5.0548\% \pm 0.1002\% \\
+r^2 &= 98.0339\%
+\end{align}$$

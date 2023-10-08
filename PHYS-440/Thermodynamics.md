@@ -1,8 +1,8 @@
-TODO: https://en.wikipedia.org/wiki/Thermodynamics
+#TODO: https://en.wikipedia.org/wiki/Thermodynamics
 
 ### Thermodynamics:
- - Deals with Temperature, Heat, Work, Entropy, Energy, etc, as rather abstract macroscopic concepts obeying certain rules or ‘laws’.
- - It works, but it’s hard to explain why without appealing to Statistical Mechanics.
+ - Deals with [[Temperature\|temperature]], [[Heat\|heat]], [[Thermodynamic Work\|work]], [[Entropy\|entropy]], Energy, etc, as rather abstract macroscopic concepts obeying certain rules or ‘laws’.
+ - It works, but it’s hard to explain why without appealing to [[Statistical Mechanics]].
 ### [[Laws of Thermodynamics]]
  - 0th Law: [[Zeroth Law of Thermodynamics|Concept of Temperature]]
  - 1st Law: [[First Law of Thermodynamics|Energy Conservation]]

@@ -1,4 +1,4 @@
-TODO: [entropy](https://en.wikipedia.org/wiki/Entropy "Entropy")
+#TODO: [entropy](https://en.wikipedia.org/wiki/Entropy "Entropy")
 ### Entropy
  - On a microscopic level, laws of Physics are time-invariant, i.e. reversible
  - What about macroscopic phenomena? Are these reversible?

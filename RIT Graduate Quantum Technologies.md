@@ -12,3 +12,4 @@
 > Item 3
 
 TODO: Add stuff from MyCourses
+https://en.wikipedia.org/wiki/Quantum_algorithm
