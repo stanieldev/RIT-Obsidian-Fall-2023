@@ -1,4 +1,4 @@
-TODO: [laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics "Laws of thermodynamics")
+#TODO: [laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics "Laws of thermodynamics")
 ### Laws of Thermodynamics
  - 0th Law: [[Zeroth Law of Thermodynamics|Concept of Temperature]]
  - 1st Law: [[First Law of Thermodynamics|Energy Conservation]]

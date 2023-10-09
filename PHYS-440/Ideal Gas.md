@@ -1,4 +1,4 @@
-TODO: https://en.wikipedia.org/wiki/Ideal_gas
+#TODO: https://en.wikipedia.org/wiki/Ideal_gas
 ### What is an Ideal Gas
  - Molecules are identical
  - Molecules are tiny compared to their average separation (point masses)

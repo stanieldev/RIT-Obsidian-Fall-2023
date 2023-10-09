@@ -1,4 +1,4 @@
-TODO: https://en.wikipedia.org/wiki/Microstate_(statistical_mechanics)
+#TODO: https://en.wikipedia.org/wiki/Microstate_(statistical_mechanics)
 
 Why are irreversible macroscopic states are overwhelmingly probable?
  - Microstates described by specific configurations of the system with definite values of physical properties (position, momentum, energy of individual particles) of constituents.

@@ -15,16 +15,20 @@ $$R = \dfrac{V}{I}, \delta R = R\sqrt{\left(\dfrac{\delta V}{V}\right)^2 + \left
 
 ### Do when class starts
 $$ \begin{align}
-R_0 &\pm \delta R_0 = a + b\\
-T_0 &\pm \delta T_0 \ = c + d
+R_0 &\pm \delta R_0 = 4.76\Omega \pm 0.40\Omega\\
+T_0 &\pm \delta T_0 \ = 296.6K \pm 0.1K
 \end{align}$$
 $$ \begin{align}
-V_{\tilde{} \ 1/2} &\pm \delta V_{\tilde{} \ 1/2} = a + b\\
-I_{\ \tilde{} \ 1/2} &\pm \delta I_{\ \tilde{} \ 1/2} = c + d\\
-R &\pm \delta R \ \ \ \ \ = e + f \\
+V_{\tilde{} \ 1/2} &\pm \delta V_{\tilde{} \ 1/2} = 60.2V \pm 0.1V\\
+I_{\ \tilde{} \ 1/2} &\pm \delta I_{\ \tilde{} \ 1/2} = 1.15A \pm 0.01A\\
+R &\pm \delta R \ \ \ \ \ = 52.35\Omega \pm 0.46\Omega \\
 \end{align}$$
-$$ T = T_0 \left(\dfrac{R}{R_0}\right)^c = K \cdot \left(\dfrac{\Omega}{\Omega}\right)^{\tfrac{5}{6}} = K $$
-$$\delta T = \dfrac{T}{x} \sqrt{\left(x\ln x\right)^2 (6.81\cdot10^{-4})^2 + (\tfrac{5}{6})^2 \left(\delta x\right)^2} = K$$
+$$ T = T_0 \left(\dfrac{R}{R_0}\right)^c = 296.6K \cdot \left(\dfrac{52.35\Omega}{4.76\Omega}\right)^{\tfrac{5}{6}} = 2132.79K $$
+$$\begin{align}
+\delta T &= T\sqrt{\ln\left(\dfrac{52.35\Omega}{4.76\Omega}\right)^2 (6.81\cdot10^{-4})^2 + (0.822787)^2 \left(\dfrac{0.46\Omega}{52.35\Omega}\right)^2} \\
+&= 15.81K
+\end{align}$$
+
 
 
 
@@ -39,13 +43,20 @@ $$\ln(T) = \ln\left(\dfrac{T_0}{{R_0}^c}\right) + c \ln R $$
 $$\delta (\ln T) = \sqrt{\left(\ln \dfrac{R}{R_0}\right)^2 (\delta c)^2 + c^2 \left(\dfrac{\delta R}{R}\right)^2}$$
 $$\delta (\ln(x)) = \dfrac{\partial (\ln(x))}{\partial x} \delta x = \dfrac{\delta x}{x} $$
 
-$$P = \overline{P}, \ \ \ \delta P = \dfrac{s_P}{\sqrt{N}}$$
+$$\begin{align}
+\dfrac{P}{A_s\Omega} &= \dfrac{\sigma}{4\pi}(T^4-T_0^4) \implies \left(\dfrac{4 \pi}{\sigma A_s\Omega}\right)P = T^4-T_0^4 \\
+k &= \dfrac{4 \pi}{\sigma A_s\Omega} \implies kP = T^4-T_0^4
+\end{align}$$
+$$\ln P \approx -\ln k + 4\ln(T)$$
 
-$$\ln P = \ln\overline{P}, \ \ \ \delta(\ln P) = \dfrac{\delta P}{\overline{P}}$$
+$$\begin{align}
+s \pm ds &= +4.620510 \pm 0.179252 \\
+b \pm db &= -34.28242 \pm 1.380978 \\
+r^2 &= 97.6486\%
+\end{align}$$
 
 
-$$P = \left(\sigma A_s \dfrac{\Omega}{4\pi}\right)(T^4-T_0^4)$$
-$$\left(\sigma A_s \dfrac{\Omega}{4\pi}\right)=s \implies \sigma = \dfrac{4 \pi}{A_s \Omega}s, \ \ \ \delta\sigma = \dfrac{4 \pi}{A_s \Omega}\delta s$$
-
-$$\ln P \approx \ln \left(\sigma A_s \dfrac{\Omega}{4\pi}\right) + 4\ln(T)$$
-$$\ln \left(\sigma A_s \dfrac{\Omega}{4\pi}\right) = b  \implies \sigma = \dfrac{4 \pi}{A_s \Omega}e^b, \ \ \ \delta\sigma = \dfrac{4 \pi}{A_s \Omega}e^b\delta s$$
+$$\begin{align}
+s \pm ds &= 5.0548\% \pm 0.1002\% \\
+r^2 &= 98.0339\%
+\end{align}$$
