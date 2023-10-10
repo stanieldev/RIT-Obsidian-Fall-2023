@@ -31,12 +31,12 @@ $$\begin{align}
 &= \sqrt{\dfrac{1}{6}} + i\sqrt{\dfrac{2}{6}}e^{-i\tfrac{\pi}{4}}
 \end{align}$$
 $$\langle \psi_3 | \psi_3 \rangle = \left(\sqrt{\dfrac{1}{2}}\right)^2 + \left(\sqrt{\dfrac{1}{2}}\right)^2 = 1$$
-$$|\langle \psi_3 | \psi_1 \rangle|^2 = \left(\sqrt{\dfrac{1}{6}}\right)^2 + \left(\sqrt{\dfrac{2}{6}}\right)^2 = \dfrac{3}{6} = 50\% $$
+$$|\langle \psi_3 | \psi_1 \rangle|^2 = \left(\sqrt{\dfrac{1}{6}}\right)^2 + \left(\sqrt{\dfrac{2}{6}}\cos(\tfrac{\pi}{4})\right)^2 = \dfrac{5}{6} = 83.3\% $$
 $$\begin{align}
 |\langle \psi_2 | \psi_3 \rangle|^2 &= \left|\left(\sqrt{\dfrac{1}{5}} \bra{+} - \sqrt{\dfrac{4}{5}} \bra{-}\right)\left(\sqrt{\dfrac{1}{2}} \ket{+} + \sqrt{\dfrac{1}{2}}e^{i\tfrac{\pi}{4}}\ket{-}\right)\right|^2 \\
 &= \left|\sqrt{\dfrac{1}{10}} \langle+|+\rangle - \sqrt{\dfrac{4}{10}} \langle-|+\rangle + \sqrt{\dfrac{1}{10}}e^{i\tfrac{\pi}{4}} \langle+|-\rangle - \sqrt{\dfrac{4}{10}}e^{i\tfrac{\pi}{4}} \langle-|-\rangle \right|^2 \\
 &= \left|\sqrt{\dfrac{1}{10}} - \sqrt{\dfrac{4}{10}}e^{i\tfrac{\pi}{4}}\right|^2 \\
-&= \left(\sqrt{\dfrac{1}{10}}\right)^2 + \left(\sqrt{\dfrac{4}{10}}\right)^2 = \dfrac{5}{10} = 50\%
+&= \left(\sqrt{\dfrac{1}{10}}\right)^2 + \left(\sqrt{\dfrac{4}{10}}\cos(\tfrac{\pi}{4})\right)^2 = 2 - \sqrt{2} \approx 59\%
 \end{align}$$
 <hr>
 

@@ -6,7 +6,7 @@ $$\begin{align}
 \ket{\psi_2} &= \sqrt{\dfrac{1}{3}}\ket{X^+} - i\sqrt{\dfrac{2}{3}}\ket{X^-} \\
 &= \left(\sqrt{\dfrac{1}{6}} - i\sqrt{\dfrac{2}{6}}\right)\ket{Z^+} + \left(\sqrt{\dfrac{1}{6}} - i\sqrt{\dfrac{2}{6}}\right)\ket{Z^-}
 \end{align}$$
-a) *Write each vector and co-vector in matrix form in the Z basis*
+a) *Write each vector and covector in matrix form in the Z basis*
 $$\begin{align}
 \ket{\psi_1} &= \dfrac{1}{\sqrt{3}}\begin{bmatrix}1\\i\sqrt{2}\end{bmatrix} \\
 \bra{\psi_1} &= \dfrac{1}{\sqrt{3}}\begin{bmatrix}1&-i\sqrt{2}\end{bmatrix} \\
