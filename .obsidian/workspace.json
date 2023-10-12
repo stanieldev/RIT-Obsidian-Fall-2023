@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ca487033cff31a43",
+        "id": "4bca463df22496f2",
         "type": "tabs",
         "children": [
           {
-            "id": "f54efec6bdec2f58",
+            "id": "6727b5643e564937",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PHYS-440/Third Law of Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHYS-440/Third Law of Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHYS-440/Third Law of Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PHYS-440/Third Law of Thermodynamics.md"
+              }
             }
           },
           {
@@ -171,35 +179,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f54efec6bdec2f58",
+  "active": "6727b5643e564937",
   "lastOpenFiles": [
-    "RIT Graduate Quantum Technologies.md",
-    "RIT Modern Physics Lab.md",
-    "RIT Principles of Quantum Technology.md",
-    "RIT Teaching Mathematics & Physics.md",
-    "RIT Thermal & Statistical Mechanics.md",
-    "PHYS-670/Reading Notes 14.md",
-    "PHYS-670/Reading Notes 9.md",
-    "PHYS-670/Reading Notes 8.md",
-    "PHYS-670/Reading Notes 6.md",
-    "PHYS-670/Reading Notes 4.md",
-    "PHYS-670/Reading Notes 2.md",
-    "PHYS-670/Reading Notes 0.md",
-    "Overall.md",
-    "PHYS-251/Homework 1.pdf",
-    "CPME-789/Tensor Product.md",
-    "CPME-789/Tensor Algebra.md",
-    "CPME-789/Quantum Binary Basis.md",
-    "CPME-789/QBit Gates.md",
-    "CPME-789/Outer Product.md",
-    "CPME-789/Inner Product.md",
-    "CPME-789/Deutsch–Jozsa Algorithm.md",
-    "PHYS-315/Atomic Spectra.md",
-    "PHYS-440/Zeroth Law of Thermodynamics.md",
-    "PHYS-440/Third Law of Thermodynamics.md",
-    "PHYS-440/Thermodynamics.md",
+    "PHYS-440/Second Law of Thermodynamics.md",
     "PHYS-440/Thermodynamic Work.md",
+    "PHYS-440/Thermodynamic Processes.md",
     "PHYS-440/Thermodynamic Systems.md",
+    "PHYS-440/Thermodynamics.md",
+    "PHYS-440/Third Law of Thermodynamics.md",
+    "PHYS-440/Zeroth Law of Thermodynamics.md",
+    "PHYS-440/First Law of Thermodynamics.md",
+    "PHYS-440/States of Matter.md",
+    "RIT Thermal & Statistical Mechanics.md",
+    "PHYS-440/Laws of Thermodynamics.md",
+    "PHYS-440/Thermodynamic Equilibrium.md",
+    "PHYS-440/Temperature.md",
+    "PHYS-440/Statistical Mechanics.md",
+    "PHYS-440/_Other items.md",
+    "PHYS-440/Heat.md",
+    "PHYS-440/Heat Capacity.md",
+    "PHYS-440/Entropy.md",
+    "PHYS-440/Degrees of Freedom.md",
+    "PHYS-440/Conservation of Energy.md",
+    "PHYS-440/Closed System.md",
+    "PHYS-440/Boltzmann Constant.md",
+    "PHYS-251/Homework 3.md",
+    "PHYS-251/Homework 2.md",
+    "PHYS-251/Homework 1.pdf",
+    "CPME-789/Deutsch–Jozsa Algorithm.md",
+    "RIT Graduate Quantum Technologies.md",
     "PHYS-440/Homework 2.pdf",
     "PHYS-440/Homework 0.pdf",
     "PHYS-440/Homework 1.pdf",

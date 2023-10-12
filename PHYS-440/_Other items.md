@@ -20,3 +20,4 @@ $$H \equiv U + PV$$
 
 #TODO: https://en.wikipedia.org/wiki/Enthalpy
 
+Objects at higher [[Temperature\|temperature]] spontaneously gives up [[Heat\|heat]] to objects at lower [[Temperature\|temperature]] through the methods of [[Thermal Equilibrium\|equilibrium]].
