@@ -3,5 +3,5 @@ TABLE
 file.ctime as Created
 FROM #TODO
 SORT file.ctime DESC
-LIMIT 10
+LIMIT 25
 ```

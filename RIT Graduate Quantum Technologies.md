@@ -1,4 +1,4 @@
-#RIT #CPME-789 
+#RIT #CPME-789 #TODO: Better Organize
 ### Mathematics
 > [[Inner Product]]
 > [[Outer Product]]

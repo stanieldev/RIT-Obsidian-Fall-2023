@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8941ad5e2c0ac50e",
+        "id": "ca487033cff31a43",
         "type": "tabs",
         "children": [
           {
-            "id": "a70830579260a6ec",
+            "id": "f54efec6bdec2f58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS-251/Homework 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -98,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-251/Homework 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-251/Homework 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PHYS-251/Homework 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,50 +171,50 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a70830579260a6ec",
+  "active": "f54efec6bdec2f58",
   "lastOpenFiles": [
-    "PHYS-251/Homework 2.md",
+    "RIT Graduate Quantum Technologies.md",
+    "RIT Modern Physics Lab.md",
+    "RIT Principles of Quantum Technology.md",
+    "RIT Teaching Mathematics & Physics.md",
+    "RIT Thermal & Statistical Mechanics.md",
+    "PHYS-670/Reading Notes 14.md",
+    "PHYS-670/Reading Notes 9.md",
+    "PHYS-670/Reading Notes 8.md",
+    "PHYS-670/Reading Notes 6.md",
+    "PHYS-670/Reading Notes 4.md",
+    "PHYS-670/Reading Notes 2.md",
+    "PHYS-670/Reading Notes 0.md",
+    "Overall.md",
+    "PHYS-251/Homework 1.pdf",
+    "CPME-789/Tensor Product.md",
+    "CPME-789/Tensor Algebra.md",
+    "CPME-789/Quantum Binary Basis.md",
     "CPME-789/QBit Gates.md",
-    "CPME-789/Homework 1.md",
     "CPME-789/Outer Product.md",
     "CPME-789/Inner Product.md",
-    "CPME-789/hw1q3.png",
-    "CPME-789/Homework 2.md",
     "CPME-789/Deutsch–Jozsa Algorithm.md",
-    "RIT Graduate Quantum Technologies.md",
-    "PHYS-251/Homework 3.md",
+    "PHYS-315/Atomic Spectra.md",
+    "PHYS-440/Zeroth Law of Thermodynamics.md",
+    "PHYS-440/Third Law of Thermodynamics.md",
+    "PHYS-440/Thermodynamics.md",
+    "PHYS-440/Thermodynamic Work.md",
+    "PHYS-440/Thermodynamic Systems.md",
+    "PHYS-440/Homework 2.pdf",
+    "PHYS-440/Homework 0.pdf",
+    "PHYS-440/Homework 1.pdf",
+    "CPME-789/hw1q3.png",
     "CPME-789/hw2q6.png",
     "CPME-789/Screenshot 2023-10-08 163410.png",
     "CPME-789/hw2q5.png",
     "CPME-789/hw2q4.png",
-    "CPME-789/Quantum Binary Basis.md",
-    "PHYS-315/Thermal Radiation.md",
-    "PHYS-440/Laws of Thermodynamics.md",
-    "PHYS-440/Heat Capacity.md",
-    "PHYS-440/Heat.md",
-    "PHYS-440/First Law of Thermodynamics.md",
-    "PHYS-440/Entropy.md",
-    "PHYS-440/Degrees of Freedom.md",
-    "PHYS-440/Conservation of Energy.md",
-    "PHYS-440/Closed System.md",
-    "PHYS-440/Boltzmann Constant.md",
-    "PHYS-440/_Energy in Thermal Physics.md",
-    "PHYS-440/Third Law of Thermodynamics.md",
-    "PHYS-440/Second Law of Thermodynamics.md",
-    "PHYS-440/Internal Energy.md",
-    "PHYS-440/Ideal Gas.md",
-    "PHYS-440/Macrostates.md",
     "Untitled",
     "Excalidraw",
     "PHYS-315/Measuring G",
     "PHYS-251",
     "PHYS-440",
     "PHYS-315",
-    "PHYS-670",
-    "CPME-789",
-    "CPME-789",
     "Unneeded/Demo Canvas.canvas",
-    "Unneeded",
     "Unneeded/home_1.jpg"
   ]
 }

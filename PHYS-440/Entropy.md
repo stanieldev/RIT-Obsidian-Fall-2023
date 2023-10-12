@@ -7,4 +7,4 @@
 
 
 ### Entropy of ideal gas
-$$S(U,V,N) = N k_b \log \left[\dfrac{5}{2} + \log \dfrac{V}{N} + \dfrac{3}{2}\log\left(\dfrac{4\pi m (\tfrac{U}{N})}{3\hbar^2}\right)\right]$$
+$$S(U,V,N) = N k_b \left[\dfrac{5}{2} + \log \dfrac{V}{N} + \dfrac{3}{2}\log\left(\dfrac{4\pi m (\tfrac{U}{N})}{3\hbar^2}\right)\right]$$

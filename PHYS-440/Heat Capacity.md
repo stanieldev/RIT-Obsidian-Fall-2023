@@ -1,13 +1,9 @@
-#TODO: https://en.wikipedia.org/wiki/Enthalpy
-### Heat Capacities
-$$C = \dfrac{Q}{\Delta T} = \dfrac{\Delta U - W}{\Delta T}$$
-At W = 0, Heat Capacity at Constant Volume
-$$ C_V = \left(\dfrac{\partial U}{\partial T}\right)_V $$
-For Heat Capacity at Constant Pressure
-$$ C_P = \left(\dfrac{\Delta U - W}{\Delta T}\right)_P = \left(\dfrac{\partial U}{\partial T}\right)_P + P\left(\dfrac{\partial V}{\partial T}\right)_P $$
-When Equipartition and f is constant
-$$ C_V = \dfrac{\partial U}{\partial T} = \dfrac{\partial}{\partial T} \left(\dfrac{f}{2}Nk_bT\right) =  \dfrac{f}{2}Nk_b$$
-$$ C_P = \left(\dfrac{\partial U}{\partial T}\right)_P + P\left(\dfrac{\partial V}{\partial T}\right)_P = \left(\dfrac{\partial U}{\partial T}\right)_P + P\left(\dfrac{\partial}{\partial T}\left(\dfrac{Nk_bT}{P}\right)\right)_P$$
-$$C_P = C_V + Nk_b = \left(\dfrac{\partial H}{\partial T}\right)_P $$
-### Enthalpy
-$$H \equiv U + PV$$
+[Heat capacity](https://en.wikipedia.org/wiki/Heat_capacity) or **thermal capacity** is a [physical property](https://en.wikipedia.org/wiki/Physical_quantity "Physical quantity") of [[matter]], defined as the amount of [[Heat\|heat]] to be supplied to an object to produce a unit change in its [[Temperature\|temperature]]. The [[SI unit]] of heat capacity is [[Joule (Unit)\|joule]] per [[Kelvin (Unit)\|kelvin]] (J/K).
+### Basic Definition
+$$C = \lim_{\Delta T \rightarrow 0} \dfrac{\Delta Q}{\Delta T} = \dfrac{dQ}{dT}$$
+### At Constant Pressure
+$$C_P =  \left(\dfrac{\partial U}{\partial T}\right)_P + P \left(\dfrac{\partial V}{\partial T}\right)_P$$
+### At Constant Volume
+$$C_V =  \left(\dfrac{\partial U}{\partial T}\right)_V$$
+### Adiabatic Constant
+$$\gamma = \dfrac{C_P}{C_V}, \ \ \ C_V = \dfrac{Nk_b}{\gamma-1}, \ \ \ C_P = \gamma \cdot \dfrac{Nk_b}{\gamma-1}$$

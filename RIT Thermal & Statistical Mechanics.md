@@ -7,7 +7,7 @@ Phonons | Speed of Sound (c)
 Stretching of Polymers | Youngs Modulus (E)
 ### Topics we will cover
 > Classic [[Thermodynamics]]
-> Fundamentals ([[_Energy in Thermal Physics|Energy]], [[Entropy]], Interactions)
+> Fundamentals ([[_Other items|Energy]], [[Entropy]], Interactions)
 > Free Energy and its uses
 > Classical Statistics: [[Boltzmann Distribution]]
 > Quantum Statistics: [[Fermi]] and [[Bose-Einstein]] Distributions
