@@ -1,3 +1,7 @@
+
+
+
+
 #TODO: Complete [**Statistical Mechanics**](https://en.wikipedia.org/wiki/Statistical_mechanics)
 ### Core Principles underlying Statistical Mechanics
 1. The laws of physics have to be maintained. Mostly this means that energy is conserved.

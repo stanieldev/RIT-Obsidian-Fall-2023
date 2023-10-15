@@ -1,7 +1,7 @@
 In [[thermodynamics]], the [**fundamental thermodynamic relation**](https://en.wikipedia.org/wiki/Fundamental_thermodynamic_relation) are four fundamental equations which demonstrate how four important [[thermodynamic quantities]] depend on variables that can be controlled and measured experimentally.
 
 ### Definition
-The differential of the [[Internal Energy\|internal energy]] can be expressed as:
+The differential of the [[internal energy]] can be expressed as:
 $$dU = T dS - PdV + \mu dN$$
  - $dQ \equiv TdS$  : [[Heat\|Entropic energy]]
  - $dW \equiv PdV$ : [[Thermodynamic Work\|Work]], work done by change of volume

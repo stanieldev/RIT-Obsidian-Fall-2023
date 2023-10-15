@@ -1,4 +1,4 @@
-In Physics, [**degrees of freedom**](https://en.wikipedia.org/wiki/Degrees_of_freedom_(physics_and_chemistry)) are an independent physical property necessary to describe state of a [[Thermodynamic Systems\|system]], and paired with [equipartition of energy](https://en.wikipedia.org/wiki/Equipartition_theorem), to define [[Internal Energy\|internal energy]].
+In Physics, [**degrees of freedom**](https://en.wikipedia.org/wiki/Degrees_of_freedom_(physics_and_chemistry)) are an independent physical property necessary to describe state of a [[Thermodynamic Systems\|system]], and paired with [equipartition of energy](https://en.wikipedia.org/wiki/Equipartition_theorem), to define [[internal energy]].
 ### Component Degrees of Freedom (3D)
 .| Monatomic | Linear Molecule | Non-Linear Molecule
 ----- | ----- | ----- | -----

@@ -1,7 +1,5 @@
 #TODO: Complete
-
-
-### Thermodynamic Quantities
+Description
 > [[Temperature]]
 > [[Entropy]]
 > [[Heat\|Heat Energy]]

@@ -3,6 +3,6 @@ The [**internal energy**](https://en.wikipedia.org/wiki/Internal_energy) of a [[
 ### Definition
 $$U = Q + W$$
 - $Q$ is the [[Heat\|entropic energy]].
- - $W$ is the [[Thermodynamic Work\|thermodynamic work]].
+ - $W$ is the [[thermodynamic work]].
 
-Note: This is a statement of the [[First Law of Thermodynamics\|first law of thermodynamics]].
+Note: This is a statement of the [[first law of thermodynamics]].

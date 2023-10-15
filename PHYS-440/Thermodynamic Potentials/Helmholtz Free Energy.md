@@ -1,10 +1,10 @@
-In [[Thermodynamics\|thermodynamics]], [**helmholtz free energy**](https://en.wikipedia.org/wiki/Helmholtz_free_energy) is a thermodynamic potential that measures the useful [[Thermodynamic Work\|work]] that may be performed by a [[Closed System\|closed system]] at constant [[Temperature\|temperature]].
+In [[Thermodynamics\|thermodynamics]], [**Helmholtz free energy**](https://en.wikipedia.org/wiki/Helmholtz_free_energy) is a thermodynamic potential that measures the useful [[Thermodynamic Work\|work]] that may be performed by a [[closed system]] at constant [[temperature]].
 
 ### Definition
 $$F = U - TS$$
- - $U$ is the [[Internal Energy\|internal energy]].
- - $T$ is the [[Temperature\|temperature]].
- - S is the [[Entropy\|entropy]].
+ - $U$ is the [[internal energy]].
+ - $T$ is the [[temperature]].
+ - S is the [[entropy]].
 
 ### Connection to Entropy
 > Assume a closed system that can exchange energy with a reservoir.

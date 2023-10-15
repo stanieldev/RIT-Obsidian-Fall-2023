@@ -1,4 +1,4 @@
-The [**Boltzmann constant**](https://en.wikipedia.org/wiki/Boltzmann_constant) is a constant of the universe that relates [[Entropy\|entropy]] and [[Temperature\|temperature]].
+The [**Boltzmann constant**](https://en.wikipedia.org/wiki/Boltzmann_constant) is a constant of the universe that relates [[entropy]] and [[temperature]].
 ### Definition
 $$\begin{align}
 k_b &= 1.380649 \cdot 10^{−23} \ \text{J/K} \\

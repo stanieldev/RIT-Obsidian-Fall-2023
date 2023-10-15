@@ -1,6 +1,7 @@
-[**Thermodynamics**](https://en.wikipedia.org/wiki/Thermodynamics) is a branch of physics that deals with [[Heat\|heat]], [[Thermodynamic Work\|work]], and [[Temperature\|temperature]], and their relation to [[Thermodynamic Potentials\|energy]], [[entropy]], and the physical properties of matter and radiation.
+[**Thermodynamics**](https://en.wikipedia.org/wiki/Thermodynamics) is a branch of physics that deals with [[heat]], [[Thermodynamic Work\|work]], and [[temperature]], and their relation to [[Thermodynamic Potentials\|energy]], [[entropy]], and the physical properties of matter and radiation.
 
-The behavior of these [[Thermodynamic Quantities\|quantities]] is governed by the four [[Thermodynamic Laws\|laws of thermodynamics]] which convey a description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents using [[Statistical Mechanics\|statistical mechanics]].
+The behavior of these [[Thermodynamic Quantities\|quantities]] is governed by the four [[Thermodynamic Laws\|laws of thermodynamics]] which convey a description using measurable macroscopic physical quantities, but may be explained in terms of microscopic constituents using [[statistical mechanics]].
+
 
 ### [[Thermodynamic Laws]]
 > 0th Law: [[Zeroth Law of Thermodynamics|Concept of Temperature]]
