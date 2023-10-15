@@ -1,5 +1,4 @@
-#Complete 
-In [[Thermodynamics\|thermodynamics]], [helmholtz free energy](https://en.wikipedia.org/wiki/Helmholtz_free_energy) is a thermodynamic potential that measures the useful [[Thermodynamic Work\|work]] that may be performed by a [[Closed System\|closed system]] at constant [[Temperature\|temperature]].
+In [[Thermodynamics\|thermodynamics]], [**helmholtz free energy**](https://en.wikipedia.org/wiki/Helmholtz_free_energy) is a thermodynamic potential that measures the useful [[Thermodynamic Work\|work]] that may be performed by a [[Closed System\|closed system]] at constant [[Temperature\|temperature]].
 
 ### Definition
 $$F = U - TS$$

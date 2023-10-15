@@ -1,6 +1,6 @@
-#Complete
-[Heat capacity](https://en.wikipedia.org/wiki/Heat_capacity) or **thermal capacity** is a physical property of matter, defined as the amount of [[Heat\|heat]] to be supplied to an object to produce a unit change in its [[Temperature\|temperature]].
+In [[thermodynamics]], [**Heat capacity**](https://en.wikipedia.org/wiki/Heat_capacity) or **thermal capacity** is a physical property of matter, defined as the amount of [[Heat\|heat]] to be supplied to an object to produce a unit change in its [[Temperature\|temperature]].
 The [[SI unit]] of heat capacity is [[Joule (Unit)\|joule]] per [[Kelvin (Unit)\|kelvin]] (J/K).
+
 ### Basic Definition
 $$C = \lim_{\Delta T \rightarrow 0} \dfrac{\Delta Q}{\Delta T} = \dfrac{dQ}{dT}$$
 ### At Constant Pressure (Enthalpy Capacity)

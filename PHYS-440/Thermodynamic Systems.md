@@ -1,10 +1,16 @@
-#TODO: [thermodynamic systems](https://en.wikipedia.org/wiki/Thermodynamic_system "Thermodynamic system")
+#TODO: Complete [**thermodynamic systems**](https://en.wikipedia.org/wiki/Thermodynamic_system "Thermodynamic system")
+
+> These systems have properties found in [[Thermodynamic Quantities]]
 
 Thermodynamics also defines the concept of [[Open System\|open system]], [[Closed System\|closed system]], and other types.
+### Systems
+[[Closed System]]
+[[Open System]]
+[[Isolated System]]
 
 
+### States of Systems
+[[States of Matter]]
+[[Ideal Gas]]
+[[Einstein Solid]]
 
-
-### Statements of 1st Law
-Isothermal: $\Delta T = 0 \implies \Delta U = 0$
-Adiabatic: $Q = 0$

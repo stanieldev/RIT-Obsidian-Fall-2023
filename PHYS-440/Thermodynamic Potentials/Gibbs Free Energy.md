@@ -1,5 +1,4 @@
-#Complete 
-In [[Thermodynamics\|thermodynamics]], [gibbs free energy](https://en.wikipedia.org/wiki/Gibbs_free_energy) is a thermodynamic potential that can be used to calculate the maximum amount of [[Thermodynamic Work\|work]] that may be performed by a [[Closed System\|closed system]] at constant [[Temperature\|temperature]] and [pressure](https://en.wikipedia.org/wiki/Pressure "Pressure").
+In [[Thermodynamics\|thermodynamics]], [**gibbs free energy**](https://en.wikipedia.org/wiki/Gibbs_free_energy) is a thermodynamic potential that can be used to calculate the maximum amount of [[Thermodynamic Work\|work]] that may be performed by a [[Closed System\|closed system]] at constant [[Temperature\|temperature]] and [pressure](https://en.wikipedia.org/wiki/Pressure "Pressure").
 
 ### Definition
 $$G = H - TS$$

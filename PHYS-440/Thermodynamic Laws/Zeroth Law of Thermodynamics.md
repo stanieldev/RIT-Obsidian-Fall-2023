@@ -1,6 +1,6 @@
-#Complete 
 The [**zeroth law of thermodynamics**](https://en.wikipedia.org/wiki/Zeroth_law_of_thermodynamics "Zeroth law of thermodynamics") is one of the four principal [[Thermodynamic Laws|laws of thermodynamics]].
 It provides an independent definition of [[Temperature|temperature]] without reference to [[Entropy|entropy]].
+
 ### Definition
  | 
 ----- | -----

@@ -1,4 +1,4 @@
-#TODO: https://en.wikipedia.org/wiki/Statistical_mechanics
+#TODO: Complete [**Statistical Mechanics**](https://en.wikipedia.org/wiki/Statistical_mechanics)
 ### Core Principles underlying Statistical Mechanics
 1. The laws of physics have to be maintained. Mostly this means that energy is conserved.
 2. Systems tend to be in or evolve towards the most likely states
@@ -16,3 +16,6 @@ $$\begin{align}
 \text{Phonons} &\implies \text{Speed of Sound} \\
 \text{Polymer Stretching} &\implies \text{Young's Modulus} \\
 \end{align}$$
+
+[[Microstates]]
+[[Macrostates]]

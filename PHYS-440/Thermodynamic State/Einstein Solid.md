@@ -1,4 +1,4 @@
-#TODO Fill out extra stuff for this section
+#TODO: Complete
 
 Quantum Harmonic Oscillators
 $$E = \left(n + \dfrac{1}{2}\right)\hbar\omega$$

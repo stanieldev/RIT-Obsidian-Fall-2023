@@ -1,4 +1,17 @@
-#TODO: [thermal equilibrium](https://en.wikipedia.org/wiki/Thermal_equilibrium "Thermal equilibrium")
+#TODO: Complete [**thermal equilibrium**](https://en.wikipedia.org/wiki/Thermal_equilibrium "Thermal equilibrium")
+Also add the files for each type
+
+
+### Thermodynamic Equilibrium
+> [[Mechanical Equilibrium]]
+> [[Thermal Equilibrium]]
+> [[Diffusive Equilibrium]]
+
+
+
+
+
+
 
 
 Types of Equilibrium

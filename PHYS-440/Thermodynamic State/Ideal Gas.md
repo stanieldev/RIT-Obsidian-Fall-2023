@@ -1,4 +1,4 @@
-#TODO: https://en.wikipedia.org/wiki/Ideal_gas
+#TODO: Complete [**Ideal Gas**](https://en.wikipedia.org/wiki/Ideal_gas)
 ### Relationship between Temperature and Energy
 
  - Ideal Gas (no interactions other than elastic collision with wall) is an approximation.

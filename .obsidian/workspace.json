@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb0ba9ab7c456fb",
+        "id": "077ac6fcc2d63b57",
         "type": "tabs",
         "children": [
           {
-            "id": "250b132434c0998d",
+            "id": "af9a3abd3ab79c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-440/Thermodynamic Energy/Enthalpy.md",
+                "file": "PHYS-440/Macrostates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-440/Thermodynamic Energy/Enthalpy.md",
+                "file": "PHYS-440/Macrostates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-440/Thermodynamic Energy/Enthalpy.md",
+                "file": "PHYS-440/Macrostates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-440/Thermodynamic Energy/Enthalpy.md"
+                "file": "PHYS-440/Macrostates.md"
               }
             }
           },
@@ -167,38 +167,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "250b132434c0998d",
+  "active": "af9a3abd3ab79c75",
   "lastOpenFiles": [
-    "PHYS-440/Thermodynamic Energy/Gibbs Free Energy.md",
-    "PHYS-440/Thermodynamic Energy/Grand Free Energy.md",
-    "PHYS-440/Thermodynamic Energy/Heat.md",
-    "PHYS-440/Thermodynamic Energy/Helmholtz Free Energy.md",
-    "PHYS-440/Thermodynamic Energy/Internal Energy.md",
-    "PHYS-440/Thermodynamic Energy/Thermodynamic Identity.md",
-    "PHYS-440/Thermodynamic Energy/Thermodynamic Work.md",
-    "PHYS-440/Thermodynamic Energy/Enthalpy.md",
-    "PHYS-440/Thermodynamic Energy.md",
-    "PHYS-440/Thermodynamic Equilibrium.md",
-    "PHYS-440/Thermodynamics.md",
-    "PHYS-440/Statistical Mechanics.md",
+    "PHYS-440/Microstates.md",
     "PHYS-440/Conservation of Energy.md",
     "PHYS-440/Boltzmann Constant.md",
-    "PHYS-440/Thermodynamic Systems/Open System.md",
-    "PHYS-440/Thermodynamic Systems/Microstates.md",
-    "PHYS-440/Thermodynamic Systems/Macrostates.md",
-    "PHYS-440/Thermodynamic Systems/Isolated System.md",
-    "PHYS-440/Thermodynamic Systems/Ideal Gas.md",
-    "PHYS-440/Thermodynamic Systems/Einstein Solid.md",
+    "Overall.md",
+    "PHYS-440/Thermodynamic Potentials.md",
+    "PHYS-440/Thermodynamics.md",
+    "PHYS-440/Thermodynamic Laws.md",
     "PHYS-440/Thermodynamic Systems/Closed System.md",
-    "PHYS-440/Thermodynamic Properties/Temperature.md",
-    "PHYS-440/Thermodynamic Properties/Heat Capacity.md",
-    "PHYS-440/Thermodynamic Properties/Entropy.md",
-    "PHYS-440/Thermodynamic Properties/Degrees of Freedom.md",
+    "PHYS-440/Thermodynamic State/States of Matter.md",
+    "PHYS-440/Thermodynamic State/Ideal Gas.md",
+    "PHYS-440/Thermodynamic State/Einstein Solid.md",
+    "PHYS-440/Thermodynamic Quantities/Thermodynamic Work.md",
+    "PHYS-440/Thermodynamic Quantities/Temperature.md",
+    "PHYS-440/Thermodynamic Quantities/Internal Energy.md",
+    "PHYS-440/Thermodynamic Quantities/Heat Capacity.md",
+    "PHYS-440/Thermodynamic Quantities/Degrees of Freedom.md",
+    "PHYS-440/Thermodynamic Quantities/Entropy.md",
+    "PHYS-440/Thermodynamic Quantities/Heat.md",
+    "PHYS-440/Thermodynamic Potentials/Thermodynamic Identity.md",
+    "PHYS-440/Thermodynamic Potentials/Helmholtz Free Energy.md",
+    "PHYS-440/Thermodynamic Potentials/Grand Free Energy.md",
+    "PHYS-440/Thermodynamic Potentials/Gibbs Free Energy.md",
+    "PHYS-440/Thermodynamic Potentials/Enthalpy.md",
     "PHYS-440/Thermodynamic Laws/Zeroth Law of Thermodynamics.md",
-    "PHYS-440/Thermodynamic Properties",
+    "PHYS-440/Thermodynamic Laws/Third Law of Thermodynamics.md",
+    "PHYS-440/Thermodynamic Laws/Second Law of Thermodynamics.md",
+    "PHYS-440/Thermodynamic Cycles",
+    "PHYS-440/Thermodynamic State",
+    "PHYS-440/Thermodynamic Quantities",
     "PHYS-440/Thermodynamic Processes",
     "PHYS-440/Thermodynamic Equilibrium",
-    "PHYS-440/Thermodynamic Energy",
+    "PHYS-440/Thermodynamic Potentials",
     "PHYS-440/Thermodynamic Systems",
     "PHYS-440/Thermodynamic Laws",
     "Untitled",
@@ -208,8 +210,6 @@
     "CPME-789/Screenshot 2023-10-08 163410.png",
     "CPME-789/hw2q5.png",
     "CPME-789/hw2q4.png",
-    "Excalidraw",
-    "PHYS-315/Measuring G",
     "Unneeded/Demo Canvas.canvas",
     "Unneeded/home_1.jpg"
   ]
