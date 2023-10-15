@@ -1,10 +1,4 @@
 #RIT #PHYS-440 #TODO: Better Organize
-### Microscopic & Macroscopic
-Microscopic | Macroscopic
------ | -----
-Motion of Free Electrons | Electrical Conductivity ($\sigma$)
-Phonons | Speed of Sound (c)
-Stretching of Polymers | Youngs Modulus (E)
 ### Topics we will cover
 > Classic [[Thermodynamics]]
 > Fundamentals ([[_Other items|Energy]], [[Entropy]], Interactions)
