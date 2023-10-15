@@ -1,4 +1,5 @@
 <hr>
+
 ### Question 1
 Consider two quantum states:
 $$\begin{align}
@@ -100,7 +101,6 @@ $p_{bottom}=50\%,\ \ \ p_{top}=50\%$
 Regardless of the Z state, the X will be a 50/50 split, so it should be evenly balanced.
 
 c/d) *Find the expected value and uncertainty of $\ket{\psi}$ through gate $\sigma_x$*.
-$$\sigma_x = \ket{Z^-}\bra{Z^+}+\ket{Z^+}\bra{Z^-}$$
 $$\begin{align}
 \bra{\psi} \sigma_x \ket{\psi} &= \begin{bmatrix}\sqrt{\dfrac{1}{5}}&\sqrt{\dfrac{4}{5}}\end{bmatrix} \begin{bmatrix}0&1\\1&0\end{bmatrix} \begin{bmatrix}\sqrt{\tfrac{1}{5}}\\\sqrt{\tfrac{4}{5}}\end{bmatrix} \\
 \langle\hat{\sigma}_x\rangle&= \begin{bmatrix}\sqrt{\dfrac{1}{5}}&\sqrt{\dfrac{4}{5}}\end{bmatrix}  \begin{bmatrix}\sqrt{\tfrac{4}{5}}\\\sqrt{\tfrac{1}{5}}\end{bmatrix} = \dfrac{4}{5}
@@ -113,3 +113,12 @@ My answers are consistent with part A, but not with part B.
 
 <hr>
 ### Question 5
+
+a) Millions of detections per second means the light source is high intensity
+	The photons are likely statistically random, and so lack quantum entanglement, since there is no change in outcome based on other photons.
+
+b) Since they can only happen on one detector or the other, the photons are in a superposition of states between each direction, and when measured only shows at one detector.
+
+c) Similar to part B, photons are in a superposition of states between each direction, but there are a small few photons that are entangled. Photons who are entangled will always have 1 photon at each detector at the same time.
+
+d) It is possible if our light source only produced entangled-pair photons without any others being sent through the mechanism.

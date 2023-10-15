@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-440/Third Law of Thermodynamics.md",
+                "file": "PHYS-251/Homework 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-440/Third Law of Thermodynamics.md",
+                "file": "PHYS-251/Homework 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-440/Third Law of Thermodynamics.md",
+                "file": "PHYS-251/Homework 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-440/Third Law of Thermodynamics.md"
+                "file": "PHYS-251/Homework 3.md"
               }
             }
           },
@@ -181,12 +182,12 @@
   },
   "active": "6727b5643e564937",
   "lastOpenFiles": [
+    "PHYS-440/Third Law of Thermodynamics.md",
     "PHYS-440/Second Law of Thermodynamics.md",
     "PHYS-440/Thermodynamic Work.md",
     "PHYS-440/Thermodynamic Processes.md",
     "PHYS-440/Thermodynamic Systems.md",
     "PHYS-440/Thermodynamics.md",
-    "PHYS-440/Third Law of Thermodynamics.md",
     "PHYS-440/Zeroth Law of Thermodynamics.md",
     "PHYS-440/First Law of Thermodynamics.md",
     "PHYS-440/States of Matter.md",
