@@ -22,6 +22,7 @@ $$\Omega = \dfrac{1}{N!}\dfrac{V_x V_p}{\hbar^3}$$
  - $V_x$ is volume in physical space.
  - $V_p$ is volume in momentum space.
  - $N$ is the number of particles in the gas.
-$$\Omega_N = \dfrac{1}{\hbar^3}\dfrac{1}{N!}V^N\cdot \dfrac{\pi^\tfrac{3N}{2}\sqrt{2mU}^{3N}}{\left(\tfrac{3N}{2}\right)!}$$
+ - $\hbar$ is the [[reduced plancks constant]].
+$$\Omega_N = \dfrac{1}{\hbar^{3N}}\dfrac{1}{N!}V^N\cdot \dfrac{\pi^\tfrac{3N}{2}\sqrt{2mU}^{3N}}{\left(\tfrac{3N}{2}\right)!}$$
 ### Entropy of Ideal Gas
 $$S(U,V,N) = N k_b \left[\dfrac{5}{2} + \log \dfrac{V}{N} + \dfrac{3}{2}\log\left(\dfrac{4\pi m (\tfrac{U}{N})}{3\hbar^2}\right)\right]$$
