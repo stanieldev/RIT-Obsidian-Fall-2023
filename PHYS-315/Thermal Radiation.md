@@ -60,3 +60,25 @@ $$\begin{align}
 s \pm ds &= 5.0548\% \pm 0.1002\% \\
 r^2 &= 98.0339\%
 \end{align}$$
+
+
+
+$$\begin{align}
+\lambda &= 600\text{nm} \ \ : s \pm \delta s = -22570.299 \pm 72.320\\
+\lambda &= 800\text{nm} \ \ : s \pm \delta s = -17209.405 \pm 63.517\\
+\lambda &= 1200\text{nm} : s \pm \delta s = -11947.754 \pm 54.123\\
+\lambda &= 1600\text{nm} : s \pm \delta s = -9448.373 \pm 73.693\\
+\lambda &= 1800\text{nm} : s \pm \delta s = -6595.237 \pm 139.203\\
+\lambda &= 2400\text{nm} : s \pm \delta s = -5877.635 \pm 43.315\\
+\end{align}$$
+
+
+$$\dfrac{hc}{k} \pm \delta\left(\dfrac{hc}{k}\right) = 13.729 \ \text{mm K} \pm 0.273 \ \text{mm K}$$
+$$\dfrac{hc}{k} = 14.390 \ \text{mm K}$$
+$$\text{\% Error} = -4.59\%$$
+$$\text{STD Error: } -2.423 \cdot\delta\left(\dfrac{hc}{k}\right)$$
+
+
+
+hc/k +/- d(hc/k) = 13728696.253nm K +/- 272844.754nm K
+                 = 14389602.471nm K
