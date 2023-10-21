@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-440/Thermodynamic State/Ideal Gas.md",
+                "file": "PHYS-315/Oil Drop.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-440/Thermodynamic State/Ideal Gas.md",
+                "file": "PHYS-315/Oil Drop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-440/Thermodynamic State/Ideal Gas.md",
+                "file": "PHYS-315/Oil Drop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-440/Thermodynamic State/Ideal Gas.md"
+                "file": "PHYS-315/Oil Drop.md"
               }
             }
           },
@@ -169,8 +170,20 @@
   },
   "active": "3782a975197a1d98",
   "lastOpenFiles": [
-    "PHYS-440/_Other items.md",
+    "PHYS-440/Homework 3.pdf",
+    "PHYS-315/Oil Drop.md",
+    "PHYS-440/Homework 2.pdf",
+    "PHYS-440/Homework 1.pdf",
+    "PHYS-440/Homework 0.pdf",
+    "PHYS-251/Homework 1.pdf",
+    "PHYS-440/Thermodynamic Potentials/Gibbs Free Energy.md",
+    "PHYS-440/Thermodynamic Potentials/Grand Free Energy.md",
+    "PHYS-440/Thermodynamic Quantities/Heat Capacity.md",
+    "PHYS-440/Thermodynamic Potentials/Thermodynamic Identity.md",
+    "PHYS-440/Thermodynamic Quantities/Heat.md",
+    "PHYS-440/Thermodynamic Quantities/Internal Energy.md",
     "PHYS-440/Thermodynamic State/Ideal Gas.md",
+    "PHYS-440/_Other items.md",
     "CPME-789/Homework 2.md",
     "PHYS-440/Thermodynamic State/Einstein Solid.md",
     "PHYS-440/Microstates.md",
@@ -187,24 +200,12 @@
     "().md",
     "PHYS-440/Thermodynamic Systems/Open System.md",
     "PHYS-440/Thermodynamic Systems/Closed System.md",
-    "PHYS-440/Thermodynamic Quantities/Internal Energy.md",
-    "PHYS-440/Thermodynamic Quantities/Temperature.md",
-    "PHYS-440/Thermodynamic Quantities/Thermodynamic Work.md",
-    "PHYS-440/Thermodynamic Quantities/Heat.md",
-    "PHYS-440/Thermodynamic Quantities/Heat Capacity.md",
-    "PHYS-440/Thermodynamic Quantities/Degrees of Freedom.md",
-    "PHYS-440/Thermodynamic Potentials/Thermodynamic Identity.md",
-    "PHYS-440/Thermodynamic Potentials/Helmholtz Free Energy.md",
     "PHYS-440/Thermodynamic Cycles",
     "PHYS-440/Thermodynamic State",
     "PHYS-440/Thermodynamic Quantities",
     "PHYS-440/Thermodynamic Processes",
     "PHYS-440/Thermodynamic Equilibrium",
     "PHYS-440/Thermodynamic Potentials",
-    "PHYS-440/Thermodynamic Systems",
-    "PHYS-440/Thermodynamic Laws",
-    "Untitled",
-    "PHYS-251/Homework 1.pdf",
     "CPME-789/hw1q3.png",
     "CPME-789/hw2q6.png",
     "CPME-789/Screenshot 2023-10-08 163410.png",
