@@ -47,7 +47,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 ### Charge Equations
-$$q = 6\pi\eta d \cdot\dfrac{(v_g + v_V)r}{V}, \ \delta q = q \sqrt{\left(\dfrac{\delta d}{d}\right)^2+\left(\dfrac{\delta v_g+\delta v_V}{v_g+v_V}\right)^2+\left(\dfrac{\delta r}{r}\right)^2+\left(\dfrac{\delta V}{V}\right)^2}$$
+$$q = 6\pi\eta d\dfrac{(v_g + v_V)r}{V}, \ \delta q = q \sqrt{\left(\dfrac{\delta d}{d}\right)^2+\left(\dfrac{\delta v_g+\delta v_V}{v_g+v_V}\right)^2+\left(\dfrac{\delta r}{r}\right)^2+\left(\dfrac{\delta V}{V}\right)^2}$$
 $$\begin{aligned}
 &q = 6\pi\eta d \cdot\dfrac{(v_g + v_V)r}{V} \\
 & \ \ = 6\pi(1.85\cdot10^{-5}\text{ Pa}\cdot\text{s})(5.91\text{ mm}) \cdot\dfrac{(10.267\cdot10^{-5}\text{ m/s})(5.478\cdot10^{-7}\text{ m})}{500\text{ V}}\\
