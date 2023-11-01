@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa2eaf4623c0c2d",
+        "id": "625c16d02ba2930d",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c9565b420a55fb",
+            "id": "ef597e429b4ce0c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-251/Midterm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "126bf9145e1fb4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS-251/Homework 2.md",
+                "file": "PHYS-670/Homework 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-251/Midterm.md",
+                "file": "PHYS-670/Homework 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-251/Midterm.md",
+                "file": "PHYS-670/Homework 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-251/Midterm.md"
+                "file": "PHYS-670/Homework 2.md"
               }
             }
           },
@@ -179,11 +168,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e8c9565b420a55fb",
+  "active": "ef597e429b4ce0c6",
   "lastOpenFiles": [
+    "PHYS-670/Homework 3.md",
     "PHYS-251/Homework 2.md",
-    "PHYS-251/Homework 3.md",
     "PHYS-251/Midterm.md",
+    "PHYS-251/Homework 3.md",
     "PHYS-251/Homework 1.pdf",
     "PHYS-440/Thermodynamic Potentials/Thermodynamic Identity.md",
     "PHYS-440/Thermodynamics.md",
@@ -207,7 +197,6 @@
     "PHYS-440/Thermodynamic Quantities/Heat.md",
     "PHYS-440/Thermodynamic Quantities/Entropy.md",
     "PHYS-440/Thermodynamic Quantities/Degrees of Freedom.md",
-    "PHYS-440/Thermodynamic State/Ideal Gas.md",
     "CPME-789/Homeworks",
     "CPME-789/Quantum Algorithms/Untitled",
     "CPME-789/Quantum Algorithms",
