@@ -12,6 +12,10 @@ https://www.youtube.com/watch?v=PAVKuYv1HC8
 https://www.youtube.com/watch?v=PAVKuYv1HC8
 
 
+### # The Stern-Gerlach Experiment and the Electron Spin
+https://mycourses.rit.edu/d2l/le/content/1044635/viewContent/9413099/View
+
+
 ### Grover Binary NN
 https://mycourses.rit.edu/d2l/le/content/1038081/viewContent/9512334/View
 

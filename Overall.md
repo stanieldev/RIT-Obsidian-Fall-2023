@@ -1,18 +1,16 @@
 ### CPME-789
-[[CPME-789/Slide Compendium|Slide Compendium]]
-[[CPME-789/Final Project|Final Project]]
-### PHYS-251
-[[PHYS-251/Slide Compendium]]
+[[CPME-789/Slide Compendium|Slide Compendium]] (Complete, now sort)
+[[CPME-789/Final Project|Final Project]] (Research)
 ### PHYS-315
-[[PHYS-315/Final Project]]
+[[PHYS-315/Final Project]] (Research)
 [[Double-Slit Experiment]]
 [[E over M]]
 ### PHYS-440
-[[PHYS-440/Slide Compendium]]
-[[Journal Club Presentation]]
+~~[[PHYS-440/Slide Compendium]]~~
+[[Journal Club Presentation]] (Research)
 ### PHYS-670
-[[PHYS-670/Slide Compendium]]
-[[PHYS-670/Final Project]]
+[[PHYS-670/Slide Compendium]] (Finish later)
+[[PHYS-670/Final Project]] (Research)
 [[PHYS-670/Homework 3]]
 [[Homework 4]]
 
