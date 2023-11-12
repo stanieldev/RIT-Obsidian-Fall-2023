@@ -11,7 +11,7 @@ $$\begin{align}
 &\ket{\psi_1} = \dfrac{1}{\sqrt{2^{n+1}}} \displaystyle\sum_{x=0}^{2^n-1} \ket{x}(\ket{0}-\ket{1})
 \end{align}$$
 Step 2: Oracle Transformation
-The oracle $U$ maps it's input state $\ket{x}\ket{y} \rightarrow \ket{x}\ket{y \oplus f(x)}$
+The oracle $U_f$ maps it's input state $\ket{x}\ket{y} \rightarrow \ket{x}\ket{y \oplus f(x)}$
 $$\begin{align}
 \ket{\psi_2} &= \dfrac{1}{\sqrt{2^{n+1}}} \displaystyle\sum_{x=0}^{2^n-1} \ket{x}(\ket{0 \oplus f(x)}-\ket{1 \oplus f(x)}) \\
 &= \dfrac{1}{\sqrt{2^{n+1}}} \displaystyle\sum_{x=0}^{2^n-1} (-1)^{f(x)}\ket{x}(\ket{0}-\ket{1}) \\
@@ -28,5 +28,5 @@ $$\begin{align}
 \end{align}$$
 The probability of measuring $k=0$, corresponding to $\ket{0}^{\otimes n}$, is
 $$\begin{align}
-&H^{\otimes n}\ket{k} = \left|\dfrac{1}{2^{n}} \displaystyle\sum_{x=0}^{2^n-1} (-1)^{f(x)}\right|^2 = \begin{cases}1 \rightarrow f(x)\text{ is balanced}\\0 \rightarrow f(x)\text{ is constant}\end{cases}
+&H^{\otimes n}\ket{0} = \left|\dfrac{1}{2^{n}} \displaystyle\sum_{x=0}^{2^n-1} (-1)^{f(x)}\right|^2 = \begin{cases}1 \rightarrow f(x)\text{ is balanced}\\0 \rightarrow f(x)\text{ is constant}\end{cases}
 \end{align}$$

@@ -1,0 +1,1 @@
+- First thing to decide is the topic of your project, which is due on November 15th.

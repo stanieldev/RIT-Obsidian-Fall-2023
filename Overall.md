@@ -1,20 +1,29 @@
+### PHYS-670
+[[PHYS-670/Homework 3]]
+[[PHYS-670/Homework 4]]
+(Nov 17th) [[PHYS-670/Final Project|Final Project Short Concept]]
+(Dec 7th) [[PHYS-670/Final Project|Final Project Written Draft]]
+(Dec 14th) [[PHYS-670/Final Project|Final Project Written Paper]]
+### PHYS-440
+
 ### CPME-789
-[[CPME-789/Slide Compendium|Slide Compendium]] (Complete, now sort)
-[[CPME-789/Final Project|Final Project]] (Research)
-**SOON** [[CPME-789/Homeworks/Homework 3]]
+(Nov 13th) [[CPME-789/Homeworks/Homework 3\|Homework 3]]
+(Nov 15th) [[CPME-789/Final Project|Final Project Topic Submission]]
+(Dec 17th) [[CPME-789/Final Project|Final Project]]
 ### PHYS-315
-[[PHYS-315/Final Project]] (Research)
+(Nov 10th) Paper - LaTeX Citations
+(Nov 19th) Paper - First Draft
 [[Double-Slit Experiment]]
 [[E over M]]
-### PHYS-440
-~~[[PHYS-440/Slide Compendium]]~~
-**NOW** [[Journal Club Presentation]] (Research)
-### PHYS-670
-[[PHYS-670/Slide Compendium]] (Finish later)
-[[PHYS-670/Final Project]] (Research)
-[[PHYS-670/Homework 3]]
-[[Homework 4]]
+### PHYS-251
+(Nov 17th) [[PHYS-251/Homework 4|Homework 4]]
 
+
+
+### Compendiums
+Graduate Quantum [[CPME-789/Slide Compendium|Slide Compendium]] (Complete, now sort)
+Statistical Physics ~~[[PHYS-440/Slide Compendium]]~~
+Graduate Teaching [[PHYS-670/Slide Compendium]] (Finish later)
 
 
 
