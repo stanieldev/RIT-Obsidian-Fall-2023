@@ -7,14 +7,11 @@
 ### PHYS-440
 
 ### CPME-789
-(Nov 13th) [[CPME-789/Homeworks/Homework 3\|Homework 3]]
 (Nov 15th) [[CPME-789/Final Project|Final Project Topic Submission]]
 (Dec 17th) [[CPME-789/Final Project|Final Project]]
 ### PHYS-315
-(Nov 10th) Paper - LaTeX Citations
 (Nov 19th) Paper - First Draft
 [[Double-Slit Experiment]]
-[[E over M]]
 ### PHYS-251
 (Nov 17th) [[PHYS-251/Homework 4|Homework 4]]
 
