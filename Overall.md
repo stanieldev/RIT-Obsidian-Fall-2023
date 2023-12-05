@@ -1,20 +1,13 @@
 ### PHYS-670
-[[PHYS-670/Homework 3]]
-[[PHYS-670/Homework 4]]
 (Nov 17th) [[PHYS-670/Final Project|Final Project Short Concept]]
 (Dec 7th) [[PHYS-670/Final Project|Final Project Written Draft]]
 (Dec 14th) [[PHYS-670/Final Project|Final Project Written Paper]]
 ### PHYS-440
-
+(Nov 30th) Homework #4
 ### CPME-789
-(Nov 15th) [[CPME-789/Final Project|Final Project Topic Submission]]
 (Dec 17th) [[CPME-789/Final Project|Final Project]]
 ### PHYS-315
-(Nov 19th) Paper - First Draft
-[[Double-Slit Experiment]]
 ### PHYS-251
-(Nov 17th) [[PHYS-251/Homework 4|Homework 4]]
-
 
 
 ### Compendiums

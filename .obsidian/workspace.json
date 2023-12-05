@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overall.md",
+                "file": "CPME-789/Final Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overall.md",
+                "file": "CPME-789/Final Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overall.md",
+                "file": "CPME-789/Final Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overall.md"
+                "file": "CPME-789/Final Project.md"
               }
             }
           },
@@ -157,23 +157,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b60adad4bda15d2a",
+  "active": "7bd96a52f9ec8a4b",
   "lastOpenFiles": [
-    "PHYS-315/E over M.md",
-    "CPME-789/Homeworks/Homework 3.md",
+    "CPME-789/Algebra.md",
+    "CPME-789/Final Project.md",
+    "PHYS-440/Thermodynamic Potentials/Thermodynamic Identity.md",
+    "PHYS-440/Thermodynamic State/Phase Transition.md",
+    "PHYS-315/Double-Slit Experiment.md",
+    "PHYS-440/Thermodynamic Quantities/Thermodynamic Work.md",
+    "PHYS-440/Thermodynamic Quantities/Heat Capacity.md",
+    "PHYS-440/Homework/Homework 3.pdf",
+    "PHYS-440/Thermodynamic Equilibrium.md",
+    "PHYS-440/Thermodynamic Equilibrium/Diffusive Equilibrium.md",
+    "PHYS-440/Thermodynamic Systems/Closed System.md",
+    "PHYS-440/Thermodynamic Distributions/Maxwell-Boltzmann.md",
+    "PHYS-440/Thermodynamic State/Statistical Ensembles.md",
+    "PHYS-440/Thermodynamic Distributions",
+    "PHYS-440/Slide Compendium.md",
+    "PHYS-440/Thermodynamic State/Partition Function.md",
+    "PHYS-440/Thermodynamic State/States of Matter.md",
+    "PHYS-440/Statistical Mechanics.md",
     "CPME-789/Slide Compendium.md",
-    "CPME-789/Quantum Algorithms/Shors Algorithm.md",
-    "CPME-789/Quantum Algorithms/Grovers Algorithm.md",
+    "PHYS-251/Slide Compendium.md",
+    "PHYS-670/Reading Notes 0.md",
+    "PHYS-670/Slide Compendium.md",
+    "PHYS-440/Thermodynamic Laws.md",
+    "PHYS-440/Thermodynamics.md",
+    "Overall.md",
+    "PHYS-670/Final Project.md",
+    "Untitled.md",
+    "CPME-789/Tensor Product.md",
     "CPME-789/Homeworks/hw3q4.png",
     "CPME-789/Homeworks/hw3q3_00.png",
     "CPME-789/Homeworks/hw3q3_11.png",
@@ -183,37 +206,15 @@
     "CPME-789/Homeworks/hw3_q3_10.png",
     "CPME-789/Homeworks/hw3_q3_01.png",
     "CPME-789/Homeworks/hw3_q3_00.png",
-    "CPME-789/Homeworks/Homework 2.md",
-    "Overall.md",
-    "PHYS-315/Final Project.md",
-    "CPME-789/Final Project.md",
-    "PHYS-670/Homework 3.md",
-    "PHYS-670/Final Project.md",
-    "PHYS-440/Slide Compendium.md",
-    "PHYS-251/Homework 4.md",
     "PHYS-251/Homework 1.pdf",
-    "PHYS-251/Homework 2.md",
-    "PHYS-251/Homework 3.md",
-    "PHYS-440/Journal Club Presentation.md",
-    "RIT Modern Physics Lab.md",
-    "RIT Graduate Quantum Technologies.md",
-    "CPME-789/Quantum Algorithms/Deutsch–Jozsa Algorithm.md",
-    "CPME-789/Quantum Algorithms/Phase Estimation.md",
-    "CPME-789/Quantum Algorithms/Quantum Fourier Transform.md",
-    "CPME-789/Quantum Algorithms/Swap Test.md",
-    "PHYS-670/Homework 4.md",
     "CPME-789/Homeworks/hw3q1.png",
-    "PHYS-315/Double-Slit Experiment.md",
-    "PHYS-251/Slide Compendium.md",
     "PHYS-440/Homework/Homework 0.pdf",
     "PHYS-440/Homework",
     "CPME-789/Homeworks",
     "CPME-789/Quantum Algorithms/Untitled",
     "CPME-789/Quantum Algorithms",
     "PHYS-440/Homework/Homework 1.pdf",
-    "PHYS-440/Homework/Homework 3.pdf",
     "PHYS-440/Homework/Homework 2.pdf",
-    "PHYS-440/3Homework 4.pdf",
     "Unneeded/Demo Canvas.canvas"
   ]
 }
