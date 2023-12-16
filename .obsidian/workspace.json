@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPME-789/Final Project.md",
+                "file": "PHYS-251/Homework 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPME-789/Final Project.md",
+                "file": "PHYS-251/Homework 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPME-789/Final Project.md",
+                "file": "PHYS-251/Homework 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPME-789/Final Project.md"
+                "file": "PHYS-251/Homework 5.md"
               }
             }
           },
@@ -169,8 +170,12 @@
   },
   "active": "7bd96a52f9ec8a4b",
   "lastOpenFiles": [
-    "CPME-789/Algebra.md",
+    "PHYS-251/Homework 3.md",
+    "PHYS-251/Homework 5.md",
+    "PHYS-251/Homework 4.md",
     "CPME-789/Final Project.md",
+    "CPME-789/Quantum Binary Basis.md",
+    "CPME-789/Algebra.md",
     "PHYS-440/Thermodynamic Potentials/Thermodynamic Identity.md",
     "PHYS-440/Thermodynamic State/Phase Transition.md",
     "PHYS-315/Double-Slit Experiment.md",
@@ -193,10 +198,6 @@
     "PHYS-670/Slide Compendium.md",
     "PHYS-440/Thermodynamic Laws.md",
     "PHYS-440/Thermodynamics.md",
-    "Overall.md",
-    "PHYS-670/Final Project.md",
-    "Untitled.md",
-    "CPME-789/Tensor Product.md",
     "CPME-789/Homeworks/hw3q4.png",
     "CPME-789/Homeworks/hw3q3_00.png",
     "CPME-789/Homeworks/hw3q3_11.png",
