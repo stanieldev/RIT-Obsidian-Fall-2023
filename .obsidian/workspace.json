@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0e00cd492e60fcd",
+        "id": "bfa4b1626eb65836",
         "type": "tabs",
         "children": [
           {
-            "id": "f0bee2771f7c9da8",
+            "id": "7c0b6d893cf3fdcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS-251/Final Exam.md",
+                "file": "CPME-789/Tensor Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "ef0bcb84867960f2",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS-251/Final Exam.md",
+                "file": "CPME-789/Tensor Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS-251/Final Exam.md",
+                "file": "CPME-789/Tensor Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS-251/Final Exam.md"
+                "file": "CPME-789/Tensor Product.md"
               }
             }
           },
@@ -144,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -168,8 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0bee2771f7c9da8",
+  "active": "7c0b6d893cf3fdcf",
   "lastOpenFiles": [
+    "CPME-789/Slide Compendium.md",
+    "CPME-789/Tensor Product.md",
+    "PHYS-251/Slide Compendium.md",
+    "CPME-789/Homeworks/Homework 3.md",
     "PHYS-251/Final Exam.md",
     "PHYS-251/Homework 5.md",
     "PHYS-251/Homework 3.md",
@@ -193,11 +198,7 @@
     "PHYS-440/Thermodynamic State/Partition Function.md",
     "PHYS-440/Thermodynamic State/States of Matter.md",
     "PHYS-440/Statistical Mechanics.md",
-    "CPME-789/Slide Compendium.md",
-    "PHYS-251/Slide Compendium.md",
     "PHYS-670/Reading Notes 0.md",
-    "PHYS-670/Slide Compendium.md",
-    "PHYS-440/Thermodynamic Laws.md",
     "CPME-789/Homeworks/hw3q4.png",
     "CPME-789/Homeworks/hw3q3_00.png",
     "CPME-789/Homeworks/hw3q3_11.png",
